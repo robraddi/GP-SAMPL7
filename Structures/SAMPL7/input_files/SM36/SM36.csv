@@ -1,0 +1,5 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM36,micro000,O=S1C[C@](CCc2ccccc2)(C1)NS(=O)(=O)c1ccccc1,0,1
+SM36,micro001,O=S1C[C@](CCc2ccccc2)(C1)[N-]S(=O)(=O)c1ccccc1,-1,0
+SM36,micro002,O=S(=O)(N[C@]1(CCc2ccccc2)C[S@](=O)C1)c1ccccc1,0,1
+SM36,micro003,O=S(=O)([N-][C@]1(CCc2ccccc2)C[S@](=O)C1)c1ccccc1,-1,0

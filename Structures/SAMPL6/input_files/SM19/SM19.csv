@@ -1,0 +1,16 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM19,micro001,CCOc1ccc2c(c1)sc([nH+]2)N/C(=C\c3ccc(c(c3)Cl)Cl)/O,1,3
+SM19,micro002,CCOc1ccc2[nH]/c(=N\C(=O)Cc3ccc(Cl)c(Cl)c3)sc2c1,0,1
+SM19,micro004,CCOc1ccc2c(c1)sc(n2)[N-]/C(=C\c3ccc(c(c3)Cl)Cl)/O,-1,1
+SM19,micro005,CCOc1ccc2[nH]/c(=N\C(=[OH+])Cc3ccc(Cl)c(Cl)c3)sc2c1,1,2
+SM19,micro006,CCOc1ccc2[nH+]c(NC(=O)Cc3ccc(Cl)c(Cl)c3)sc2c1,1,2
+SM19,micro007,CCOc1ccc2nc(NC(=O)Cc3ccc(Cl)c(Cl)c3)sc2c1,0,1
+SM19,micro008,CCOc1ccc2[nH]/c(=N\C([O-])=C/c3ccc(Cl)c(Cl)c3)sc2c1,-1,1
+SM19,micro010,CCOc1ccc2nc([N-]/C([O-])=C\c3ccc(Cl)c(Cl)c3)sc2c1,-2,0
+SM19,micro012,CCOc1ccc2nc(/N=C(\[O-])Cc3ccc(Cl)c(Cl)c3)sc2c1,-1,0
+SM19,micro013,CCOc1ccc2nc(N/C([O-])=C\c3ccc(Cl)c(Cl)c3)sc2c1,-1,1
+SM19,micro014,CCOc1ccc2c(c1)sc(n2)N/C(=C\c3ccc(c(c3)Cl)Cl)/O,0,2
+SM19,micro015,CCOc1ccc2[nH+]c(N/C([O-])=C\c3ccc(Cl)c(Cl)c3)sc2c1,0,2
+SM19,micro016,CCOc1ccc2[nH]/c(=N\C(=[OH+])[CH-]c3ccc(Cl)c(Cl)c3)sc2c1,0,2
+SM19,micro018,CCOc1ccc2nc([N-]C(=[OH+])Cc3ccc(Cl)c(Cl)c3)sc2c1,0,1
+SM19,micro019,CCOc1ccc2nc(NC(=[OH+])Cc3ccc(Cl)c(Cl)c3)sc2c1,1,2

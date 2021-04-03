@@ -1,0 +1,27 @@
+\documentclass{standalone}
+\usepackage{tikz-network}
+\begin{document}
+\begin{tikzpicture}
+\clip (0,0) rectangle (6,6);
+\Vertex[x=2.251,y=4.488]{001}
+\Vertex[x=4.467,y=2.085]{002}
+\Vertex[x=2.451,y=2.985]{003}
+\Vertex[x=0.621,y=4.395]{004}
+\Vertex[x=2.507,y=1.100]{005}
+\Vertex[x=5.072,y=0.350]{006}
+\Vertex[x=3.429,y=5.650]{007}
+\Vertex[x=5.379,y=3.175]{008}
+\Edge[,Direct](001)(003)
+\Edge[,Direct](001)(007)
+\Edge[,Direct](002)(005)
+\Edge[,Direct](003)(005)
+\Edge[,Direct](004)(002)
+\Edge[,Direct](004)(007)
+\Edge[,Direct](006)(002)
+\Edge[,Direct](006)(003)
+\Edge[,Direct](007)(005)
+\Edge[,Direct](008)(001)
+\Edge[,Direct](008)(004)
+\Edge[,Direct](008)(006)
+\end{tikzpicture}
+\end{document}

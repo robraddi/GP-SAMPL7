@@ -1,0 +1,15 @@
+\documentclass{standalone}
+\usepackage{tikz-network}
+\begin{document}
+\begin{tikzpicture}
+\clip (0,0) rectangle (6,6);
+\Vertex[x=5.650,y=4.429]{001}
+\Vertex[x=4.611,y=1.571]{002}
+\Vertex[x=0.350,y=2.483]{003}
+\Vertex[x=4.123,y=3.103]{004}
+\Edge[,Direct](001)(004)
+\Edge[,Direct](002)(004)
+\Edge[,Direct](003)(001)
+\Edge[,Direct](003)(002)
+\end{tikzpicture}
+\end{document}

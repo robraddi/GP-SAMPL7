@@ -1,0 +1,10 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM05,micro001,c1ccc(c(c1)NC(=O)c2ccc(o2)Cl)N3CCCCC3,0,1
+SM05,micro002,c1ccc(c(c1)/N=C(/c2ccc(o2)Cl)\[O-])N3CCCCC3,-1,0
+SM05,micro003,c1ccc(c(c1)[NH2+]C(=[OH+])c2ccc(o2)Cl)N3CCCCC3,2,3
+SM05,micro005,c1ccc(c(c1)NC(=[OH+])c2ccc(o2)Cl)[NH+]3CCCCC3,2,3
+SM05,micro006,c1ccc(c(c1)/N=C(/c2ccc(o2)Cl)\[O-])[NH+]3CCCCC3,0,1
+SM05,micro008,c1ccc(c(c1)[N-]C(=[OH+])c2ccc(o2)Cl)N3CCCCC3,0,1
+SM05,micro009,c1ccc(c(c1)NC(=[OH+])c2ccc(o2)Cl)N3CCCCC3,1,2
+SM05,micro010,c1ccc(c(c1)NC(=O)c2ccc(o2)Cl)[NH+]3CCCCC3,1,2
+SM05,micro011,c1ccc(c(c1)[N-]C(=[OH+])c2ccc(o2)Cl)[NH+]3CCCCC3,1,2

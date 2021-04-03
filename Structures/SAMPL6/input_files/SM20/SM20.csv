@@ -1,0 +1,5 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM20,micro003,c1cc(cc(c1)OCc2ccc(cc2Cl)Cl)/C=C/3\C(=O)[NH+]=C(S3)[O-],0,1
+SM20,micro004,c1cc(cc(c1)OCc2ccc(cc2Cl)Cl)/C=C/3\C(=O)N=C(S3)[O-],-1,0
+SM20,micro005,O=C1N=C(O)/C(=C\c2cccc(OCc3ccc(Cl)cc3Cl)c2)S1,0,1
+SM20,micro006,O=C1N=C(O)S/C1=C/c1cccc(OCc2ccc(Cl)cc2Cl)c1,0,1

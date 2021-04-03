@@ -1,0 +1,7 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM26,micro000,CC(=O)NS(=O)(=O)CCc1ccccc1,0,1
+SM26,micro001,CC(=O)[N-]S(=O)(=O)CCc1ccccc1,-1,0
+SM26,micro002,C=C(O)NS(=O)(=O)CCc1ccccc1,0,2
+SM26,micro003,C=C(O)[N-]S(=O)(=O)CCc1ccccc1,-1,1
+SM26,micro004,C/C(O)=N/S(=O)(=O)CCc1ccccc1,0,1
+SM26,micro005,CC(=[OH+])NS(=O)(=O)CCc1ccccc1,1,2

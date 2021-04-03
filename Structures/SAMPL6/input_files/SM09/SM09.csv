@@ -1,0 +1,12 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM09,micro001,COc1cccc(c1)/[NH+]=c\2/c3ccccc3[nH]cn2,1,2
+SM09,micro002,COc1cccc(c1)/N=c/2\c3ccccc3[nH]cn2,0,1
+SM09,micro003,COc1cccc(c1)Nc2c3ccccc3ncn2,0,1
+SM09,micro005,COc1cccc(Nc2[nH+]cnc3ccccc23)c1,1,2
+SM09,micro006,COc1cccc(c1)[NH2+]c2c3ccccc3ncn2,1,2
+SM09,micro008,COc1cccc(c1)[NH2+]c2c3ccccc3[nH+]cn2,2,3
+SM09,micro009,COc1cccc(c1)[N-]c2c3ccccc3ncn2,-1,0
+SM09,micro011,COc1cccc(/N=c2/[nH]cnc3ccccc23)c1,0,1
+SM09,micro013,COc1cccc(Nc2[nH+]c[nH+]c3ccccc23)c1,2,3
+SM09,micro014,COc1cccc([NH2+]c2[nH+]cnc3ccccc23)c1,2,3
+SM09,micro015,COc1cccc([NH2+]c2[nH+]c[nH+]c3ccccc23)c1,3,4

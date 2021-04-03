@@ -1,0 +1,26 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM21,micro001,c1cc(cc(c1)Br)Nc2[nH]cc(/c(=[NH+]/c3cccc(c3)Br)/n2)F,1,3
+SM21,micro002,Fc1cnc([NH2+]c2cccc(Br)c2)nc1Nc1cccc(Br)c1,1,3
+SM21,micro003,c1cc(cc(c1)Br)Nc2c(cn/c(=N/c3cccc(c3)Br)/[nH]2)F,0,2
+SM21,micro005,Fc1cnc([N-]c2cccc(Br)c2)nc1Nc1cccc(Br)c1,-1,1
+SM21,micro006,c1cc(cc(c1)Br)Nc2[nH]/c(=N/c3cccc(c3)Br)/c(cn2)F,0,2
+SM21,micro012,Fc1cnc(Nc2cccc(Br)c2)nc1[N-]c1cccc(Br)c1,-1,1
+SM21,micro014,c1cc(cc(c1)Br)Nc2[nH]cc(/c(=N\c3cccc(c3)Br)/n2)F,0,2
+SM21,micro015,c1cc(cc(c1)Br)[N-]c2[nH]/c(=N/c3cccc(c3)Br)/c(cn2)F,-1,1
+SM21,micro018,c1cc(cc(c1)Br)Nc2c(c[nH]/c(=N/c3cccc(c3)Br)/n2)F,0,2
+SM21,micro020,Fc1cnc(Nc2cccc(Br)c2)nc1Nc1cccc(Br)c1,0,2
+SM21,micro021,Fc1cnc([N-]c2cccc(Br)c2)nc1[N-]c1cccc(Br)c1,-2,0
+SM21,micro022,Fc1cnc(Nc2cccc(Br)c2)nc1[NH2+]c1cccc(Br)c1,1,3
+SM21,micro024,Fc1cnc(Nc2cccc(Br)c2)[nH+]c1Nc1cccc(Br)c1,1,3
+SM21,micro025,c1cc(cc(c1)Br)[N-]c2[nH]cc(/c(=N\c3cccc(c3)Br)/n2)F,-1,1
+SM21,micro026,c1cc(cc(c1)Br)Nc2c(c[nH]/c(=[NH+]/c3cccc(c3)Br)/[nH+]2)F,2,4
+SM21,micro027,c1cc(cc(c1)Br)[NH2+]c2c(c[nH]/c(=[NH+]/c3cccc(c3)Br)/n2)F,2,4
+SM21,micro028,Fc1cnc(Nc2cccc(Br)c2)[nH+]c1[NH2+]c1cccc(Br)c1,2,4
+SM21,micro029,Fc1cnc([NH2+]c2cccc(Br)c2)[nH+]c1Nc1cccc(Br)c1,2,4
+SM21,micro030,Fc1c[nH+]c([NH2+]c2cccc(Br)c2)nc1Nc1cccc(Br)c1,2,4
+SM21,micro031,Fc1cnc([NH2+]c2cccc(Br)c2)nc1[NH2+]c1cccc(Br)c1,2,4
+SM21,micro032,Fc1c[nH+]c(Nc2cccc(Br)c2)[nH+]c1[NH2+]c1cccc(Br)c1,3,5
+SM21,micro033,Fc1cnc([NH2+]c2cccc(Br)c2)[nH+]c1[NH2+]c1cccc(Br)c1,3,5
+SM21,micro034,Fc1c[nH+]c([NH2+]c2cccc(Br)c2)[nH+]c1Nc1cccc(Br)c1,3,5
+SM21,micro035,Fc1c[nH+]c([NH2+]c2cccc(Br)c2)nc1[NH2+]c1cccc(Br)c1,3,5
+SM21,micro036,Fc1c[nH+]c([NH2+]c2cccc(Br)c2)[nH+]c1[NH2+]c1cccc(Br)c1,4,6

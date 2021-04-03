@@ -1,0 +1,17 @@
+Name,Smiles,href,weight,pKa,notes
+methyclothiazide,CN1C(NC2=CC(=C(C=C2S1(=O)=O)S(=O)(=O)N)Cl)CCl,caine2019experiment,360.22,9.40,
+chlorthalidone,C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O,caine2019experiment,338.8,9.36,
+sulpiride,CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,caine2019experiment,341.4,10.21,
+celecoxib,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F,caine2019experiment,381.4,11.10,
+metolazone,CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl,caine2019experiment,365.8,9.70,
+polythiazide,CN1C(NC2=CC(=C(C=C2S1(=O)=O)S(=O)(=O)N)Cl)CSCC(F)(F)F,caine2019experiment,439.9,9.10,
+hydroflumethiazide,C1NC2=C(C=C(C(=C2)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N1,caine2019experiment,331.3,10.70,
+chlorothiazide,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,caine2019experiment,295.7,9.70,
+hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,caine2019experiment,297.7,10.39,
+trichloromethiazide,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)NC(N2)C(Cl)Cl,caine2019experiment,380.7,10.30,
+penflutizide,CCCCCC1NC2=C(C=C(C(=C2)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N1,caine2019experiment,401.4,10.39,
+bumetanide,CCCCNC1=C(C(=CC(=C1)C(=O)O)S(=O)(=O)N)OC2=CC=CC=C2,caine2019experiment,364.4,10.12,
+furosemide,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,caine2019experiment,330.74,10.24,
+piretanide,C1CCN(C1)C2=C(C(=CC(=C2)C(=O)O)S(=O)(=O)N)OC3=CC=CC=C3,caine2019experiment,362.4,10.22,
+
+

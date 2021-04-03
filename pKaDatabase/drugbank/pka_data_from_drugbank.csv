@@ -1,0 +1,393 @@
+href,name,weight,smiles,pKa,pKa source,pKa notes
+https://www.drugbank.ca/drugs/DB03904,Urea,60.0553,NC(N)=O,0.1,"PERRIN,DD (1965)",0.1 (at 21 °C)
+https://www.drugbank.ca/drugs/DB11757,Istradefylline,384.436,[H]\C(=C(\[H])C1=CC(OC)=C(OC)C=C1)C1=NC2=C(N1C)C(=O)N(CC)C(=O)N2CC,0.78,FDA Label,0.78
+https://www.drugbank.ca/drugs/DB00138,Cystine,240.3,N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O,1,MERCK INDEX (1996),1
+https://www.drugbank.ca/drugs/DB01003,Cromoglicic acid,468.3665,OC(COC1=CC=CC2=C1C(=O)C=C(O2)C(O)=O)COC1=CC=CC2=C1C(=O)C=C(O2)C(O)=O,1.1,"SANGSTER,J (1993)",1.1
+https://www.drugbank.ca/drugs/DB00120,Phenylalanine,165.1891,N[C@@H](CC1=CC=CC=C1)C(O)=O,1.24,"KORTUM,G ET AL (1961)",1.24 (at 25 °C)
+https://www.drugbank.ca/drugs/DB08809,Dichloroacetic acid,128.942,OC(=O)C(Cl)Cl,1.26,"MARUTHAMUTHU,P &amp; HUIE,RE (1995)",1.26
+https://www.drugbank.ca/drugs/DB01217,Anastrozole,293.3663,CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N,1.4,Canadian label (DPD),1.4
+https://www.drugbank.ca/drugs/DB01435,Antipyrine,188.2258,CN1N(C(=O)C=C1C)C1=CC=CC=C1,1.4,SANGSTER (1994),1.4
+https://www.drugbank.ca/drugs/DB01956,Taurine,125.147,NCCS(O)(=O)=O,1.5,Dawson et al. Data for Biochemical Research. 3 ed. (1986),1.5
+https://www.drugbank.ca/drugs/DB00151,Cysteine,121.158,N[C@@H](CS)C(O)=O,1.71,MERCK INDEX (1996); pK1,1.71
+https://www.drugbank.ca/drugs/DB00196,Fluconazole,306.2708,OC(CN1C=NC=N1)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1,1.76,https://www.pfizer.ca/sites/g/files/g10017036/f/201410/DIFLUCAN(2).pdf,1.76
+https://www.drugbank.ca/drugs/DB00859,Penicillamine,149.211,[H][C@](N)(C(O)=O)C(C)(C)S,1.8,MERCK for CO; NH2-7.9; thiol-10.5,1.8
+https://www.drugbank.ca/drugs/DB00951,Isoniazid,137.1393,NNC(=O)C1=CC=NC=C1,1.82,"PERRIN,DD (1965)",1.82 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00129,Ornithine,132.161,NCCC[C@H](N)C(O)=O,1.94,"KORTUM,G ET AL (1961)",1.94 (at 25 °C)
+https://www.drugbank.ca/drugs/DB09031,Miltefosine,407.576,CCCCCCCCCCCCCCCCOP([O-])(=O)OCC[N+](C)(C)C,2,"<span class=""not-available"">Not Available</span>",~2
+https://www.drugbank.ca/drugs/DB00128,Aspartic acid,133.1027,N[C@@H](CC(O)=O)C(O)=O,2.01,"KORTUM,G ET AL (1961)",2.01 (at 0 °C)
+https://www.drugbank.ca/drugs/DB00233,Aminosalicylic acid,153.1354,NC1=CC(O)=C(C=C1)C(O)=O,2.05,"KORTUM,G ET AL (1961)",2.05 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00380,Dexrazoxane,268.2691,C[C@@H](CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1,2.1,"<span class=""not-available"">Not Available</span>",2.1
+https://www.drugbank.ca/drugs/DB01606,Tazobactam,300.291,[H][C@@]12CC(=O)N1[C@@H](C(O)=O)[C@](C)(CN1C=CN=N1)S2(=O)=O,2.1,"<span class=""not-available"">Not Available</span>",2.1
+https://www.drugbank.ca/drugs/DB01139,Cefapirin,423.463,[H][C@]12SCC(COC(C)=O)=C(N1C(=O)[C@H]2NC(=O)CSC1=CC=NC=C1)C(O)=O,2.15,"<span class=""not-available"">Not Available</span>",2.15
+https://www.drugbank.ca/drugs/DB00130,L-Glutamine,146.1445,N[C@@H](CCC(N)=O)C(O)=O,2.17,MERCK INDEX (1996),2.17
+https://www.drugbank.ca/drugs/DB00243,Ranolazine,427.5365,COC1=CC=CC=C1OCC(O)CN1CCN(CC(=O)NC2=C(C)C=CC=C2C)CC1,2.2,Australian Assessment Report,2.2
+https://www.drugbank.ca/drugs/DB00135,Tyrosine,181.1885,N[C@@H](CC1=CC=C(O)C=C1)C(O)=O,2.2,"LEHNINGER,A (1975)",2.2 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00142,Glutamic acid,147.1293,N[C@@H](CCC(O)=O)C(O)=O,2.23,"KORTUM,G ET AL (1961)",2.23 (at 0 °C)
+https://www.drugbank.ca/drugs/DB00134,Methionine,149.211,CSCC[C@H](N)C(O)=O,2.28,ULLMANN VA2:63 (1985),2.28 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00190,Carbidopa,226.2292,C[C@@](CC1=CC(O)=C(O)C=C1)(NN)C(O)=O,2.3,Konduru N. and Madhuri G. (2014). IJPSR. Vol. 5,2.3
+https://www.drugbank.ca/drugs/DB00161,Valine,117.1463,CC(C)[C@H](N)C(O)=O,2.3,"KORTUM,G ET AL (1961)",2.3 (at 13 °C)
+https://www.drugbank.ca/drugs/DB00145,Glycine,75.0666,NCC(O)=O,2.37,"KORTUM,G ET AL (1961)",2.37 (at 20 °C)
+https://www.drugbank.ca/drugs/DB02362,Aminobenzoic acid,137.136,NC1=CC=C(C=C1)C(O)=O,2.38,"KORTUM,G ET AL (1961)",2.38 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00250,Dapsone,248.301,NC1=CC=C(C=C1)S(=O)(=O)C1=CC=C(N)C=C1,2.41,"PERRIN,DD (1965)",2.41
+https://www.drugbank.ca/drugs/DB00155,Citrulline,175.1857,N[C@@H](CCCNC(N)=O)C(O)=O,2.43,"KORTUM,G ET AL (1961)",2.43 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00119,Pyruvic acid,88.0621,CC(=O)C(O)=O,2.45,"KORTUM,G ET AL (1961)",2.45 (at 25 °C)
+https://www.drugbank.ca/drugs/DB11127,Selenious acid,128.97,O[Se](O)=O,2.46,MSDS,2.46
+https://www.drugbank.ca/drugs/DB11148,Butamben,193.246,CCCCOC(=O)C1=CC=C(N)C=C1,2.472,Toxnet,2.472
+https://www.drugbank.ca/drugs/DB00722,Lisinopril,405.4879,NCCCC[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O,2.5,MERCK INDEX (1996),2.5 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01086,Benzocaine,165.1891,CCOC(=O)C1=CC=C(N)C=C1,2.51,"PERRIN,DD (1965)",2.51 (at 25 °C)
+https://www.drugbank.ca/drugs/DB13783,Acemetacin,415.83,COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(=O)OCC(O)=O,2.6,'MSDS',2.6
+https://www.drugbank.ca/drugs/DB00879,Emtricitabine,247.247,NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1,2.65,FDA Label,2.65
+https://www.drugbank.ca/drugs/DB00766,Clavulanic acid,199.1608,[H][C@@]12CC(=O)N1[C@@H](C(O)=O)\C(O2)=C\CO,2.7,http://wildpro.twycrosszoo.org/S/00Chem/ChComplex/Clavulanic_acid.htm,2.7
+https://www.drugbank.ca/drugs/DB00630,Alendronic acid,249.096,NCCCC(O)(P(O)(O)=O)P(O)(O)=O,2.72,MERCK INDEX (1996),2.72 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00713,Oxacillin,401.436,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1)C(O)=O,2.72,SANGSTER (1994),2.72
+https://www.drugbank.ca/drugs/DB01053,Benzylpenicillin,334.39,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)CC1=CC=CC=C1)C(O)=O,2.74,MERCK INDEX (1996),2.74 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01603,Meticillin,380.415,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(OC)C=CC=C1OC)C(O)=O,2.77,SANGSTER (1994),2.77
+https://www.drugbank.ca/drugs/DB01147,Cloxacillin,435.881,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1Cl)C(O)=O,2.78,SANGSTER (1994),2.78
+https://www.drugbank.ca/drugs/DB04272,Citric acid,192.1235,OC(=O)CC(O)(CC(O)=O)C(O)=O,2.79,"SERJEANT,EP &amp; DEMPSEY,B (1979)",2.79
+https://www.drugbank.ca/drugs/DB00417,Phenoxymethylpenicillin,350.39,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)COC1=CC=CC=C1)C(O)=O,2.79,SANGSTER (1994),2.79
+https://www.drugbank.ca/drugs/DB00881,Quinapril,438.5161,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=CC=CC=C2C[C@H]1C(O)=O,2.8,Pfizer Canada Monograph,2.8
+https://www.drugbank.ca/drugs/DB00936,Salicylic acid,138.1207,OC(=O)C1=CC=CC=C1O,2.97,"SERJEANT,EP &amp; DEMPSEY,B (1979)",2.97
+https://www.drugbank.ca/drugs/DB00254,Doxycycline,444.4346,[H][C@@]12[C@@H](C)C3=CC=CC(O)=C3C(=O)C1=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@@H](N(C)C)[C@]1([H])[C@H]2O,3.09,https://www.ncbi.nlm.nih.gov/pubmed/34018,3.09
+https://www.drugbank.ca/drugs/DB00123,L-Lysine,146.1876,NCCCC[C@H](N)C(O)=O,3.12,"KORTUM,G ET AL (1961)",3.12 (at 0 °C)
+https://www.drugbank.ca/drugs/DB09325,Sodium fluoride,41.9882,[F-].[Na+],3.17,http://foodb.ca/compounds/FDB015440,3.17
+https://www.drugbank.ca/drugs/DB01598,Imipenem,299.346,[H][C@]12CC(SCC\N=C\N)=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(O)=O,3.2,MERCK INDEX (1996),3.2
+https://www.drugbank.ca/drugs/DB00807,Proparacaine,294.3892,CCCOC1=C(N)C=C(C=C1)C(=O)OCCN(CC)CC,3.2,"<span class=""not-available"">Not Available</span>",3.2
+https://www.drugbank.ca/drugs/DB01138,Sulfinpyrazone,404.482,O=C1C(CCS(=O)C2=CC=CC=C2)C(=O)N(N1C1=CC=CC=C1)C1=CC=CC=C1,3.25,SANGSTER (1994),3.25
+https://www.drugbank.ca/drugs/DB01099,Flucytosine,129.0925,NC1=C(F)C=NC(=O)N1,3.26,"BUDAVARI,S ET AL. (1996)",3.26
+https://www.drugbank.ca/drugs/DB00595,Oxytetracycline,460.434,[H][C@@]12[C@@H](O)[C@@]3([H])C(C(=O)C4=C(C=CC=C4O)[C@@]3(C)O)=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@H]2N(C)C,3.27,"KORTUM,G ET AL (1961)",3.27 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00759,Tetracycline,444.4346,[H][C@@]12C[C@@]3([H])C(=C(O)[C@]1(O)C(=O)C(C(N)=O)=C(O)[C@H]2N(C)C)C(=O)C1=C(O)C=CC=C1[C@@]3(C)O,3.3,"SERJEANT,EP &amp; DEMPSEY,B (1979)",3.3 (at 25 °C)
+https://www.drugbank.ca/drugs/DB02701,Nicotinamide,122.1246,NC(=O)C1=CC=CN=C1,3.35,"PERRIN,DD (1965)",3.35 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00829,Diazepam,284.74,CN1C2=C(C=C(Cl)C=C2)C(=NCC1=O)C1=CC=CC=C1,3.4,MERCK INDEX (1996),3.4
+https://www.drugbank.ca/drugs/DB01032,Probenecid,285.359,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O,3.4,SANGSTER (1994),3.4
+https://www.drugbank.ca/drugs/DB00945,Acetylsalicylic acid,180.1574,CC(=O)OC1=CC=CC=C1C(O)=O,3.5,https://www.fip.org/files/fip/BPS/BCS/Monographs/AcetylsalicylicAcid.pdf,3.5
+https://www.drugbank.ca/drugs/DB08826,Deferiprone,139.1519,CN1C=CC(=O)C(O)=C1C,3.5,"<span class=""not-available"">Not Available</span>",3.5
+https://www.drugbank.ca/drugs/DB00903,Etacrynic acid,303.138,CCC(=C)C(=O)C1=C(Cl)C(Cl)=C(OCC(O)=O)C=C1,3.5,MERCK INDEX (2001),3.5
+https://www.drugbank.ca/drugs/DB00500,Tolmetin,257.2845,CN1C(CC(O)=O)=CC=C1C(=O)C1=CC=C(C)C=C1,3.5,"<span class=""not-available"">Not Available</span>",3.5
+https://www.drugbank.ca/drugs/DB00441,Gemcitabine,263.1981,NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F,3.6,"<span class=""not-available"">Not Available</span>",3.6
+https://www.drugbank.ca/drugs/DB00996,Gabapentin,171.2368,NCC1(CC(O)=O)CCCCC1,3.7,"Bockbrader, H. et. al. 2010",3.7
+https://www.drugbank.ca/drugs/DB09053,Ibrutinib,440.507,NC1=NC=NC2=C1C(=NN2[C@@H]1CCCN(C1)C(=O)C=C)C1=CC=C(OC2=CC=CC=C2)C=C1,3.74,FDA Imbruvica review. (2013),3.74
+https://www.drugbank.ca/drugs/DB00583,Levocarnitine,161.1989,C[N+](C)(C)C[C@H](O)CC([O-])=O,3.8,"<span class=""not-available"">Not Available</span>",3.8
+https://www.drugbank.ca/drugs/DB08828,Vismodegib,421.297,CS(=O)(=O)C1=CC(Cl)=C(C=C1)C(=O)NC1=CC=C(Cl)C(=C1)C1=CC=CC=N1,3.8,FDA label ,3.8
+https://www.drugbank.ca/drugs/DB00345,Aminohippuric acid,194.1873,NC1=CC=C(C=C1)C(=O)NCC(O)=O,3.83,"<span class=""not-available"">Not Available</span>",3.83
+https://www.drugbank.ca/drugs/DB03085,Glycolic acid,76.0514,OCC(O)=O,3.83,"SERJEANT,EP &amp; DEMPSEY,B (1979)",3.83
+https://www.drugbank.ca/drugs/DB04398,Lactic acid,90.0779,CC(O)C(O)=O,3.86,"KORTUM,G ET AL (1961)",3.86 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00870,Suprofen,260.308,CC(C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=CS1,3.91,MERCK INDEX (1996),3.91
+https://www.drugbank.ca/drugs/DB09299,Tenofovir alafenamide,476.474,CC(C)OC(=O)[C@H](C)N[P@](=O)(CO[C@H](C)CN1C=NC2=C(N)N=CN=C12)OC1=CC=CC=C1,3.96,Product monograph. Gilead Sciences Canada,3.96
+https://www.drugbank.ca/drugs/DB06403,Ambrisentan,378.428,COC([C@H](OC1=NC(C)=CC(C)=N1)C(O)=O)(C1=CC=CC=C1)C1=CC=CC=C1,4,# FDA Label,4
+https://www.drugbank.ca/drugs/DB00982,Isotretinoin,300.4351,C\C(\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C\C(O)=O,4,https://www.rochecanada.com/content/dam/rochexx/roche-ca/products/ConsumerInformation/MonographsandPublicAdvisories/Accutane/Accutane_PM_E.pdf,~4
+https://www.drugbank.ca/drugs/DB00814,Meloxicam,351.401,CN1C(C(=O)NC2=NC=C(C)S2)=C(O)C2=C(C=CC=C2)S1(=O)=O,4.08,https://www.chemicalbook.com/ChemicalProductProperty_US_CB2191355.aspx,4.08
+https://www.drugbank.ca/drugs/DB00257,Clotrimazole,344.837,ClC1=CC=CC=C1C(N1C=CN=C1)(C1=CC=CC=C1)C1=CC=CC=C1,4.1,http://www.ijpsonline.com/articles/improvement-of-solubility-and-dissolution-properties-of-clotrimazole-by-solid-dispersions-and-inclusion-complexes.pdf,4.1
+https://www.drugbank.ca/drugs/DB00173,Adenine,135.1267,NC1=C2NC=NC2=NC=N1,4.15,"KORTUM,G ET AL (1961)",4.15 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00586,Diclofenac,296.149,OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl,4.15,SANGSTER (1994),4.15
+https://www.drugbank.ca/drugs/DB00788,Naproxen,230.2592,COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O,4.15,SANGSTER (1994),4.15
+https://www.drugbank.ca/drugs/DB03793,Benzoic acid,122.123,OC(=O)C1=CC=CC=C1,4.19,"LIDE,DR (1996)",4.19 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00784,Mefenamic acid,241.2851,CC1=C(C)C(NC2=CC=CC=C2C(O)=O)=CC=C1,4.2,SANGSTER (1994),4.2
+https://www.drugbank.ca/drugs/DB00175,Pravastatin,424.5277,[H][C@]12[C@H](C[C@H](O)C=C1C=C[C@H](C)[C@@H]2CC[C@@H](O)C[C@@H](O)CC(O)=O)OC(=O)[C@@H](C)CC,4.2,Dinnekere V. et al. 2016. Scientifica.,4.2
+https://www.drugbank.ca/drugs/DB00139,Succinic acid,118.088,OC(=O)CCC(O)=O,4.21,"DEAN,JA (1987)",4.21 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00275,Olmesartan,446.5016,CCCC1=NC(=C(N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1)C(O)=O)C(C)(C)O,4.3,FDA Chemical report ,4.3
+https://www.drugbank.ca/drugs/DB00991,Oxaprozin,293.3166,OC(=O)CCC1=NC(=C(O1)C1=CC=CC=C1)C1=CC=CC=C1,4.3,"<span class=""not-available"">Not Available</span>",4.3
+https://www.drugbank.ca/drugs/DB00513,Aminocaproic acid,131.1729,NCCCCCC(O)=O,4.43,"KORTUM,G ET AL (1961)",4.43 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01009,Ketoprofen,254.2806,CC(C(O)=O)C1=CC(=CC=C1)C(=O)C1=CC=CC=C1,4.45,SANGSTER (1994),4.45
+https://www.drugbank.ca/drugs/DB00573,Fenoprofen,242.2699,CC(C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1,4.5,"<span class=""not-available"">Not Available</span>",4.5
+https://www.drugbank.ca/drugs/DB00328,Indomethacin,357.788,COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(O)=O,4.5,"BUDAVARI,S ET AL. (1989)",4.5
+https://www.drugbank.ca/drugs/DB00812,Phenylbutazone,308.3743,CCCCC1C(=O)N(N(C1=O)C1=CC=CC=C1)C1=CC=CC=C1,4.5,"SERJEANT,EP &amp; DEMPSEY,B (1979)",4.5
+https://www.drugbank.ca/drugs/DB00548,Azelaic acid,188.2209,OC(=O)CCCCCCCC(O)=O,4.55,"KORTUM,G ET AL (1961)",4.55 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00350,Minoxidil,209.2483,NC1=CC(=NC(N)=[N+]1[O-])N1CCCCC1,4.61,MERCK INDEX (2001),4.61
+https://www.drugbank.ca/drugs/DB00730,Thiabendazole,201.248,N1C2=CC=CC=C2N=C1C1=CSC=N1,4.64,"CHAMBERLAIN,K ET AL. (1996)",4.64 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00749,Etodolac,287.3535,CCC1=C2NC3=C(CCOC3(CC)CC(O)=O)C2=CC=C1,4.65,"<span class=""not-available"">Not Available</span>",4.65
+https://www.drugbank.ca/drugs/DB00126,Ascorbic acid,176.1241,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,4.7,"KORTUM,G ET AL (1961)",4.7 (at 10 °C)
+https://www.drugbank.ca/drugs/DB00563,Methotrexate,454.4393,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,4.7,SANGSTER (1994),4.7
+https://www.drugbank.ca/drugs/DB00605,Sulindac,356.411,CC1=C(CC(O)=O)C2=CC(F)=CC=C2\C1=C/C1=CC=C(C=C1)S(C)=O,4.7,MERCK INDEX (1996),4.7
+https://www.drugbank.ca/drugs/DB00177,Valsartan,435.5188,CCCCC(=O)N(CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1)[C@@H](C(C)C)C(O)=O,4.73,http://www.japsonline.com/admin/php/uploads/54_pdf.pdf,4.73
+https://www.drugbank.ca/drugs/DB00627,Niacin,123.1094,OC(=O)C1=CN=CC=C1,4.75,"DEAN,JA (1985)",4.75 (at 25 °C)
+https://www.drugbank.ca/drugs/DB03166,Acetic acid,60.052,CC(O)=O,4.76,"SERJEANT,EP &amp; DEMPSEY,B (1979)",4.76 (at 25 °C)
+https://www.drugbank.ca/drugs/DB05990,Obeticholic acid,420.6252,[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@H](O)[C@H](CC)[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(O)=O,4.76,https://www.chemicalbook.com/ChemicalProductProperty_EN_CB92484652.htm,4.76±0.10
+https://www.drugbank.ca/drugs/DB06626,Axitinib,386.47,CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1,4.8,From FDA label.,4.8
+https://www.drugbank.ca/drugs/DB00475,Chlordiazepoxide,299.755,CNC1=NC2=C(C=C(Cl)C=C2)C(C2=CC=CC=C2)=[N+]([O-])C1,4.8,MERCK INDEX (1996),4.8
+https://www.drugbank.ca/drugs/DB00313,Valproic acid,144.2114,CCCC(CCC)C(O)=O,4.8,FDA label (2006),4.8
+https://www.drugbank.ca/drugs/DB04813,Bithionol,356.052,OC1=C(SC2=C(O)C(Cl)=CC(Cl)=C2)C=C(Cl)C=C1Cl,4.82,MERCK INDEX (1996),4.82
+https://www.drugbank.ca/drugs/DB00770,Alprostadil,354.487,CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(O)=O,4.85,"AVDEEF,A ET AL. (1995)",4.85 (at 25 °C)
+https://www.drugbank.ca/drugs/DB03766,Propanoic acid,74.0785,CCC(O)=O,4.88,"SERJEANT,EP &amp; DEMPSEY,B (1979)",4.88
+https://www.drugbank.ca/drugs/DB00669,Sumatriptan,295.4,CNS(=O)(=O)CC1=CC=C2NC=C(CCN(C)C)C2=C1,4.9,"Sumatriptan Tablets, USP monograph",4.9
+https://www.drugbank.ca/drugs/DB00756,Hexachlorophene,406.904,OC1=C(CC2=C(O)C(Cl)=CC(Cl)=C2Cl)C(Cl)=C(Cl)C=C1Cl,4.95,"HANSCH,C &amp; LEO,AJ (1985)",4.95
+https://www.drugbank.ca/drugs/DB02659,Cholic Acid,408.5714,[H][C@@](C)(CCC(O)=O)[C@@]1([H])CC[C@@]2([H])[C@]3([H])[C@]([H])(O)C[C@]4([H])C[C@]([H])(O)CC[C@]4(C)[C@@]3([H])C[C@]([H])(O)[C@]12C,4.98,"SERJEANT,EP &amp; DEMPSEY,B (1979)",4.98 (at 20 °C)
+https://www.drugbank.ca/drugs/DB01424,Aminophenazone,231.2936,CN(C)C1=C(C)N(C)N(C1=O)C1=CC=CC=C1,5,SANGSTER (1994),5
+https://www.drugbank.ca/drugs/DB00263,Sulfisoxazole,267.304,CC1=NOC(NS(=O)(=O)C2=CC=C(N)C=C2)=C1C,5,"<span class=""not-available"">Not Available</span>",5
+https://www.drugbank.ca/drugs/DB00682,Warfarin,308.3279,CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2,5,"UFER, M (2005)",5
+https://www.drugbank.ca/drugs/DB11145,Oxyquinoline,145.158,OC1=CC=CC2=C1N=CC=C2,5.017,Andersen A: Final amended report on the safety assessment of oxyquinoline and oxyquinoline sulfate as used in cosmetics. Int J Toxicol. 2006;25 Suppl 1:1-9.,5.017
+https://www.drugbank.ca/drugs/DB09078,Lenvatinib,426.86,COC1=C(C=C2C(OC3=CC=C(NC(=O)NC4CC4)C(Cl)=C3)=CC=NC2=C1)C(N)=O,5.05,FDA Label,5.05
+https://www.drugbank.ca/drugs/DB01438,Phenazopyridine,213.2385,NC1=NC(N)=C(C=C1)\N=N\C1=CC=CC=C1,5.05,https://pdfs.semanticscholar.org/182c/23f8f9a5935f172b01241dd7c06d8d72b6f3.pdf,5.05
+https://www.drugbank.ca/drugs/DB12466,Favipiravir,157.104,NC(=O)C1=NC(F)=CN=C1O,5.1,https://www.pmda.go.jp/files/000210319.pdf,5.1
+https://www.drugbank.ca/drugs/DB09216,Tolfenamic acid,261.704,CC1=C(Cl)C=CC=C1NC1=CC=CC=C1C(O)=O,5.11,Mefenamic acid: analytical profile. (2005),5.11
+https://www.drugbank.ca/drugs/DB00672,Chlorpropamide,276.74,CCCNC(=O)NS(=O)(=O)C1=CC=C(Cl)C=C1,5.13,"LIPINSKI,CA ET AL. (1991)",5.13
+https://www.drugbank.ca/drugs/DB01124,Tolbutamide,270.348,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C)C=C1,5.16,SANGSTER (1994),5.16
+https://www.drugbank.ca/drugs/DB01132,Pioglitazone,356.439,CCC1=CN=C(CCOC2=CC=C(CC3SC(=O)NC3=O)C=C2)C=C1,5.19,"Al-Majed, A. et. al.",5.19
+https://www.drugbank.ca/drugs/DB00552,Pentostatin,268.2691,OC[C@H]1O[C@H](C[C@@H]1O)N1C=NC2=C1N=CNC[C@H]2O,5.2,MERCK INDEX (1996),5.2
+https://www.drugbank.ca/drugs/DB01050,Ibuprofen,206.2808,CC(C)CC1=CC=C(C=C1)C(C)C(O)=O,5.3,"Bushra and Aslam. Oman Med. 25, 3. (2010)",5.3
+https://www.drugbank.ca/drugs/DB03017,Lauric acid,200.3178,CCCCCCCCCCCC(O)=O,5.3,"SERJEANT,EP &amp; DEMPSEY,B (1979)",5.3 (at 20 °C)
+https://www.drugbank.ca/drugs/DB14018,Bromotheophylline,259.063,CN1C2=C(NC(Br)=N2)C(=O)N(C)C1=O,5.45,"Brittain H. Profiles of drug substances, excipients and related methodology. (2007)",5.45
+https://www.drugbank.ca/drugs/DB00678,Losartan,422.911,CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=CC=CC=C1C1=NNN=N1,5.5,MERCK INDEX (1996); approx.,5.5
+https://www.drugbank.ca/drugs/DB11921,Deflazacort,441.524,[H][C@@]12C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@@]4([H])[C@@]([H])(O)C[C@]3(C)[C@@]1(N=C(C)O2)C(=O)COC(C)=O,5.52,"https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208684,208685Orig1s000ClinPharmR.pdf",5.52
+https://www.drugbank.ca/drugs/DB08864,Rilpivirine,366.4185,CC1=CC(\C=C\C#N)=CC(C)=C1NC1=CC=NC(NC2=CC=C(C=C2)C#N)=N1,5.6,"Usach, et al. J Int AIDS Soc. 16(1): 18567. (2013)",5.6
+https://www.drugbank.ca/drugs/DB00156,Threonine,119.1192,C[C@@H](O)[C@H](N)C(O)=O,5.6,"<span class=""not-available"">Not Available</span>",5.6
+https://www.drugbank.ca/drugs/DB00425,Zolpidem,307.3895,CN(C)C(=O)CC1=C(N=C2C=CC(C)=CN12)C1=CC=C(C)C=C1,5.65,http://foodb.ca/compounds/FDB023594,"Strongest basic, 5.65"
+https://www.drugbank.ca/drugs/DB00555,Lamotrigine,256.091,NC1=NC(N)=C(N=N1)C1=C(Cl)C(Cl)=CC=C1,5.7,FDA label,5.7
+https://www.drugbank.ca/drugs/DB00291,Chlorambucil,304.212,OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl,5.75,"HANSCH,C &amp; LEO,AJ (1987)",5.75
+https://www.drugbank.ca/drugs/DB01067,Glipizide,445.535,CC1=NC=C(N=C1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1,5.9,"PANTEN,U ET AL. (1989)",5.9
+https://www.drugbank.ca/drugs/DB00491,Miglitol,207.2243,OCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO,5.9,"<span class=""not-available"">Not Available</span>",5.9
+https://www.drugbank.ca/drugs/DB00562,Benzthiazide,431.937,NS(=O)(=O)C1=CC2=C(C=C1Cl)N=C(CSCC1=CC=CC=C1)NS2(=O)=O,6,"BERTHOD,A ET AL. (1999)",6
+https://www.drugbank.ca/drugs/DB11978,Glasdegib,374.448,CN1CC[C@H](C[C@@H]1C1=NC2=CC=CC=C2N1)NC(=O)NC1=CC=C(C=C1)C#N,6,"Munchhof M., et al. (2011). ACS Med Chem Lett. ",6
+https://www.drugbank.ca/drugs/DB00537,Ciprofloxacin,331.3415,OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O,6.09,"TORNIANEN,K ET AL. (1996)",6.09
+https://www.drugbank.ca/drugs/DB00981,Physostigmine,275.3461,[H][C@]12N(C)CC[C@@]1(C)C1=C(C=CC(OC(=O)NC)=C1)N2C,6.12,MERCK INDEX (1996),6.12
+https://www.drugbank.ca/drugs/DB01137,Levofloxacin,361.3675,C[C@H]1COC2=C3N1C=C(C(O)=O)C(=O)C3=CC(F)=C2N1CCN(C)CC1,6.25,Canadian label,6.25
+https://www.drugbank.ca/drugs/DB12532,Oxetacaine,467.654,CN(C(=O)CN(CCO)CC(=O)N(C)C(C)(C)CC1=CC=CC=C1)C(C)(C)CC1=CC=CC=C1,6.25,"Posey E., Boler K. and Posey L. The Amerian Journal of Digestive Diseases. (1969)",6.25
+https://www.drugbank.ca/drugs/DB00554,Piroxicam,331.346,CN1C(C(=O)NC2=NC=CC=C2)=C(O)C2=C(C=CC=C2)S1(=O)=O,6.3,SANGSTER (1994),6.3
+https://www.drugbank.ca/drugs/DB01390,Sodium bicarbonate,84.0066,[Na+].OC([O-])=O,6.3,"<span class=""not-available"">Not Available</span>",6.3
+https://www.drugbank.ca/drugs/DB00153,Ergocalciferol,396.6484,CC(C)[C@@H](C)\C=C\[C@@H](C)[C@@]1([H])CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C,6.35,Hart J. and Norman M. 1992. The Analyst. ,6.35
+https://www.drugbank.ca/drugs/DB00359,Sulfadiazine,250.277,NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=N1,6.36,SANGSTER (1994),6.36
+https://www.drugbank.ca/drugs/DB11098,Potassium bicarbonate,100.1151,[K+].OC([O-])=O,6.37,'MSDS',6.37
+https://www.drugbank.ca/drugs/DB00888,Mechlorethamine,156.054,CN(CCCl)CCCl,6.43,"PERRIN,DD (1965)",6.43 (at 25°C)
+https://www.drugbank.ca/drugs/DB04844,Tetrabenazine,317.4226,COC1=C(OC)C=C2C3CC(=O)C(CC(C)C)CN3CCC2=C1,6.51,FDA label ,6.51
+https://www.drugbank.ca/drugs/DB00590,Doxazosin,451.4751,COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1COC2=CC=CC=C2O1,6.52,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL707/,6.52
+https://www.drugbank.ca/drugs/DB00457,Prazosin,383.4011,COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1=CC=CO1,6.54,https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma/Product_Information_Sheet/1/p7791pis.pdf,6.54
+https://www.drugbank.ca/drugs/DB00656,Trazodone,371.864,ClC1=CC=CC(=C1)N1CCN(CCCN2N=C3C=CC=CN3C2=O)CC1,6.74,https://patents.google.com/patent/EP1931346B1,6.74
+https://www.drugbank.ca/drugs/DB01085,Pilocarpine,208.2569,CC[C@H]1[C@@H](CC2=CN=CN2C)COC1=O,6.78,"<span class=""not-available"">Not Available</span>",6.78
+https://www.drugbank.ca/drugs/DB00501,Cimetidine,252.339,CN\C(NCCSCC1=C(C)NC=N1)=N\C#N,6.8,"TOMLINSON,E &amp; HAFKENSCHEID,TL (1986)",6.8
+https://www.drugbank.ca/drugs/DB01253,Ergometrine,325.4048,[H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N[C@@H](C)CO,6.8,MERCK INDEX (1996),6.8
+https://www.drugbank.ca/drugs/DB00880,Chlorothiazide,295.723,NS(=O)(=O)C1=C(Cl)C=C2NC=NS(=O)(=O)C2=C1,6.85,MERCK INDEX (1996),6.85
+https://www.drugbank.ca/drugs/DB12243,Edaravone,174.203,CC1=NN(C(=O)C1)C1=CC=CC=C1,7,"Watanabe T, Tahara M, Todo S: The novel antioxidant edaravone: from bench to bedside. Cardiovasc Ther. 2008 Summer;26(2):101-14. doi: 10.1111/j.1527-3466.2008.00041.x. [A19140]",7
+https://www.drugbank.ca/drugs/DB05154,Pretomanid,359.2574,[O-][N+](=O)C1=CN2C[C@@H](COC2=N1)OCC1=CC=C(OC(F)(F)F)C=C1,7,https://www.researchgate.net/publication/310833979_Simultaneous_HPLC_assay_for_pretomanid_PA-824_moxifloxacin_and_pyrazinamide_in_an_inhaler_formulation_for_drug-resistant_tuberculosis,7
+https://www.drugbank.ca/drugs/DB11363,Alectinib,482.6166,CCC1=CC2=C(C=C1N1CCC(CC1)N1CCOCC1)C(C)(C)C1=C(C3=CC=C(C=C3N1)C#N)C2=O,7.05,FDA Label,7.05
+https://www.drugbank.ca/drugs/DB01224,Quetiapine,383.507,OCCOCCN1CCN(CC1)C1=NC2=CC=CC=C2SC2=CC=CC=C12,7.06,http://www.t3db.ca/toxins/T3D2555,7.06
+https://www.drugbank.ca/drugs/DB00633,Dexmedetomidine,200.2795,C[C@H](C1=CNC=N1)C1=C(C)C(C)=CC=C1,7.1,"<span class=""not-available"">Not Available</span>",7.1
+https://www.drugbank.ca/drugs/DB00857,Terbinafine,291.4299,CN(C\C=C\C#CC(C)(C)C)CC1=CC=CC2=CC=CC=C12,7.1,Health Canada,7.1
+https://www.drugbank.ca/drugs/DB00214,Torasemide,348.42,CC(C)NC(=O)NS(=O)(=O)C1=C(NC2=CC=CC(C)=C2)C=CN=C1,7.1,'FDA label',7.1
+https://www.drugbank.ca/drugs/DB08881,Vemurafenib,489.922,CCCS(=O)(=O)NC1=C(F)C(C(=O)C2=CNC3=NC=C(C=C23)C2=CC=C(Cl)C=C2)=C(F)C=C1,7.1,Royal Soc Chem,7.1
+https://www.drugbank.ca/drugs/DB00440,Trimethoprim,290.3177,COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC,7.12,"PERRIN,DD (1972)",7.12 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00819,Acetazolamide,222.245,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,7.2,MERCK INDEX (1996),7.2
+https://www.drugbank.ca/drugs/DB00698,Nitrofurantoin,238.159,[O-][N+](=O)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O,7.2,SANGSTER (1994),7.2
+https://www.drugbank.ca/drugs/DB06147,Sulfathiazole,255.317,NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1,7.2,"BUDAVARI,S ET AL. (1996)",7.2
+https://www.drugbank.ca/drugs/DB01148,Flavoxate,391.4596,CC1=C(OC2=C(C=CC=C2C(=O)OCCN2CCCCC2)C1=O)C1=CC=CC=C1,7.3,MERCK INDEX (1996),7.3
+https://www.drugbank.ca/drugs/DB01275,Hydralazine,160.1759,NNC1=NN=CC2=CC=CC=C12,7.3,Machado (2002),7.3
+https://www.drugbank.ca/drugs/DB00703,Methazolamide,236.26,CN1N=C(SC1=NC(C)=O)S(N)(=O)=O,7.3,"<span class=""not-available"">Not Available</span>",7.3
+https://www.drugbank.ca/drugs/DB01174,Phenobarbital,232.2353,CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1,7.3,"BUDAVARI,S ET AL. (1996)",7.3
+https://www.drugbank.ca/drugs/DB00205,Pyrimethamine,248.711,CCC1=C(C(N)=NC(N)=N1)C1=CC=C(Cl)C=C1,7.34,"PERRIN,DD (1972)",7.34 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00150,Tryptophan,204.2252,N[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O,7.38,"KORTUM,G ET AL (1961)",7.38 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00322,Floxuridine,246.1924,OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(F)C(=O)NC1=O,7.44,SANGSTER (1994),7.44
+https://www.drugbank.ca/drugs/DB00450,Droperidol,379.4274,FC1=CC=C(C=C1)C(=O)CCCN1CCC(=CC1)N1C(=O)NC2=CC=CC=C12,7.46,SANGSTER (1994),7.46
+https://www.drugbank.ca/drugs/DB01154,Thiamylal,254.349,CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O,7.48,SANGSTER (1994),7.48
+https://www.drugbank.ca/drugs/DB00697,Tizanidine,253.711,ClC1=C(NC2=NCCN2)C2=NSN=C2C=C1,7.48,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL1079/,7.48
+https://www.drugbank.ca/drugs/DB00363,Clozapine,326.823,CN1CCN(CC1)C1=NC2=CC(Cl)=CC=C2NC2=CC=CC=C12,7.5,"EL TAYAR,N ET AL. (1985)",7.5
+https://www.drugbank.ca/drugs/DB11823,Esketamine,237.73,CN[C@@]1(CCCCC1=O)C1=CC=CC=C1Cl,7.5,https://edoc.unibas.ch/1310/1/20110314_1408_DissCB_e_version.pdf,7.5
+https://www.drugbank.ca/drugs/DB01221,Ketamine,237.725,CNC1(CCCCC1=O)C1=CC=CC=C1Cl,7.5,Ketamine monograph,7.5
+https://www.drugbank.ca/drugs/DB00599,Thiopental,242.338,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O,7.55,SANGSTER (1994),7.55
+https://www.drugbank.ca/drugs/DB01582,Sulfamethazine,278.33,CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1,7.59,SANGSTER (1994),7.59
+https://www.drugbank.ca/drugs/DB01238,Aripiprazole,448.385,ClC1=CC=CC(N2CCN(CCCCOC3=CC4=C(CCC(=O)N4)C=C3)CC2)=C1Cl,7.6,https://medsafe.govt.nz/profs/Datasheet/a/Abilifytab.pdf,7.6
+https://www.drugbank.ca/drugs/DB01190,Clindamycin,424.983,CCC[C@@H]1C[C@H](N(C)C1)C(=O)NC(C(C)Cl)[C@H]1O[C@H](SC)[C@H](O)[C@@H](O)[C@H]1O,7.6,Canadian labeling,7.6
+https://www.drugbank.ca/drugs/DB06230,Nalmefene,339.435,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(CC3CC3)[C@]([H])(C4)[C@]1(O)CCC2=C,7.6,FDA Label,7.6
+https://www.drugbank.ca/drugs/DB14975,Voxelotor,337.379,CC(C)N1N=CC=C1C1=C(COC2=CC=CC(O)=C2C=O)C=CC=N1,7.67,https://www.chemicalbook.com/ChemicalProductProperty_EN_CB73053893.htm,7.67±0.10
+https://www.drugbank.ca/drugs/DB00961,Mepivacaine,246.348,CN1CCCCC1C(=O)NC1=C(C)C=CC=C1C,7.7,SANGSTER (1994),7.7
+https://www.drugbank.ca/drugs/DB00370,Mirtazapine,265.3529,CN1CCN2C(C1)C1=CC=CC=C1CC1=C2N=CC=C1,7.7,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825368/,7.7
+https://www.drugbank.ca/drugs/DB03615,Ribostamycin,454.4727,[H][C@@]1(O[C@@H]2[C@@H](O)[C@H](N)C[C@H](N)[C@H]2O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2N)O[C@H](CO)[C@@H](O)[C@H]1O,7.7,MERCK INDEX (1996),7.7
+https://www.drugbank.ca/drugs/DB00747,Scopolamine,303.3529,CN1[C@H]2C[C@@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)[C@H](CO)C1=CC=CC=C1,7.75,"SANGSTER,J (1994)",7.75 (at 25 °C)
+https://www.drugbank.ca/drugs/DB13747,Trolamine,149.1882,OCCN(CCO)CCO,7.76,"Fiume MM, Heldreth B, Bergfeld WF, et al. Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013;32(3 Suppl):59S-83S.",7.76
+https://www.drugbank.ca/drugs/DB00484,Brimonidine,292.135,BrC1=C(NC2=NCCN2)C=CC2=NC=CN=C12,7.78,Sandoz Canada Product Monograph,7.78
+https://www.drugbank.ca/drugs/DB00306,Talbutal,224.2563,CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,7.79,"KORTUM,G ET AL (1961)",7.79 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00849,Methylphenobarbital,246.2619,CCC1(C(=O)NC(=O)N(C)C1=O)C1=CC=CC=C1,7.8,"<span class=""not-available"">Not Available</span>",7.8
+https://www.drugbank.ca/drugs/DB00211,Midodrine,254.2823,COC1=CC(C(O)CNC(=O)CN)=C(OC)C=C1,7.8,"<span class=""not-available"">Not Available</span>",7.8
+https://www.drugbank.ca/drugs/DB00418,Secobarbital,238.2829,CCCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,7.8,"WOLLWEBER,H (1989)",7.8
+https://www.drugbank.ca/drugs/DB01351,Amobarbital,226.2722,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,7.84,SANGSTER (1994),7.84
+https://www.drugbank.ca/drugs/DB01353,Butobarbital,212.2456,CCCCC1(CC)C(=O)NC(=O)NC1=O,7.86,SANGSTER (1994),7.86
+https://www.drugbank.ca/drugs/DB00993,Azathioprine,277.263,CN1C=NC(=C1SC1=NC=NC2=C1NC=N2)[N+]([O-])=O,7.87,"MITRA,AK &amp; NARURKAR,MM (1986)",7.87 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01184,Domperidone,425.911,ClC1=CC2=C(C=C1)N(C1CCN(CCCN3C(=O)NC4=CC=CC=C34)CC1)C(=O)N2,7.9,"EL TAYAR,N ET AL. (1985)",7.9
+https://www.drugbank.ca/drugs/DB00623,Fluphenazine,437.522,OCCN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(C=C3)C(F)(F)F)CC1,7.9,"EL TAYAR,N ET AL. (1985)",7.9
+https://www.drugbank.ca/drugs/DB00999,Hydrochlorothiazide,297.739,NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1,7.9,SANGSTER (1994),7.9
+https://www.drugbank.ca/drugs/DB08604,Triclosan,289.542,OC1=CC(Cl)=CC=C1OC1=C(Cl)C=C(Cl)C=C1,7.9,"Merck Index 12:3, 2000",7.9
+https://www.drugbank.ca/drugs/DB00654,Latanoprost,432.5928,CC(C)OC(=O)CCC\C=C/C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCC1=CC=CC=C1,7.93,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL448/,7.93
+https://www.drugbank.ca/drugs/DB00850,Perphenazine,403.969,OCCN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1,7.94,SANGSTER (1994),7.94
+https://www.drugbank.ca/drugs/DB01452,Diamorphine,369.411,[H][C@@]12C=C[C@H](OC(C)=O)[C@@H]3OC4=C(OC(C)=O)C=CC5=C4[C@]13CCN(C)[C@@H]2C5,7.95,"AVDEEF,A ET AL. (1996)",7.95 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00432,Trifluridine,296.1999,OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(C(=O)NC1=O)C(F)(F)F,7.95,SANGSTER (1994),7.95
+https://www.drugbank.ca/drugs/DB08868,Fingolimod,307.4708,CCCCCCCCC1=CC=C(CCC(N)(CO)CO)C=C1,8,https://www.ema.europa.eu/en/documents/variation-report/gilenya-h-c-2202-ii-0034-epar-assessment-report-variation_en.pdf,8
+https://www.drugbank.ca/drugs/DB01157,Trimetrexate,369.4176,COC1=CC(NCC2=C(C)C3=C(C=C2)N=C(N)N=C3N)=CC(OC)=C1OC,8,"<span class=""not-available"">Not Available</span>",8
+https://www.drugbank.ca/drugs/DB00281,Lidocaine,234.3373,CCN(CC)CC(=O)NC1=C(C)C=CC=C1C,8.01,SANGSTER (1994),8.01
+https://www.drugbank.ca/drugs/DB00544,Fluorouracil,130.0772,FC1=CNC(=O)NC1=O,8.02,SANGSTER (1994),8.02
+https://www.drugbank.ca/drugs/DB01062,Oxybutynin,357.4864,CCN(CC)CC#CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1,8.04,https://www.chemicalbook.com/ChemicalProductProperty_US_CB2767266.aspx,8.04
+https://www.drugbank.ca/drugs/DB00575,Clonidine,230.094,ClC1=CC=CC(Cl)=C1NC1=NCCN1,8.05,"KONTTURI,K &amp; MURTOMAKI,L (1992)",8.05 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00721,Procaine,236.3101,CCN(CC)CCOC(=O)C1=CC=C(N)C=C1,8.05,"PERRIN,DD (1965)",8.05 (at 15 °C)
+https://www.drugbank.ca/drugs/DB01123,Proflavine,209.2465,NC1=CC2=NC3=C(C=CC(N)=C3)C=C2C=C1,8.06,"PERRIN,DD (1972)",8.06 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00296,Ropivacaine,274.4011,CCCN1CCCC[C@H]1C(=O)NC1=C(C)C=CC=C1C,8.07,"<span class=""not-available"">Not Available</span>",8.07
+https://www.drugbank.ca/drugs/DB00297,Bupivacaine,288.4277,CCCCN1CCCCC1C(=O)NC1=C(C)C=CC=C1C,8.1,"<span class=""not-available"">Not Available</span>",8.1
+https://www.drugbank.ca/drugs/DB01002,Levobupivacaine,288.4277,CCCCN1CCCC[C@H]1C(=O)NC1=C(C)C=CC=C1C,8.1,"<span class=""not-available"">Not Available</span>",8.1
+https://www.drugbank.ca/drugs/DB00433,Prochlorperazine,373.943,CN1CCN(CCCN2C3=CC=CC=C3SC3=C2C=C(Cl)C=C3)CC1,8.1,SANGSTER (1994),8.1
+https://www.drugbank.ca/drugs/DB00312,Pentobarbital,226.2722,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O,8.11,"SERJEANT,EP &amp; DEMPSEY,B (1979)",8.11 (at 25 °C)
+https://www.drugbank.ca/drugs/DB04861,Nebivolol,405.435,OC(CNCC(O)C1CCC2=C(O1)C=CC(F)=C2)C1CCC2=C(O1)C=CC(F)=C2,8.13,http://www.medicines.org.au/files/txpnebiv.pdf,8.13
+https://www.drugbank.ca/drugs/DB01192,Oxymorphone,301.3371,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1(O)CCC2=O,8.17,SANGSTER (1994),8.17
+https://www.drugbank.ca/drugs/DB00318,Codeine,299.3642,[H][C@]12C=C[C@H](O)[C@@H]3OC4=C5C(C[C@H]1N(C)CC[C@@]235)=CC=C4OC,8.2,http://www.inchem.org/documents/pims/pharm/codeine.htm,8.2
+https://www.drugbank.ca/drugs/DB08930,Dolutegravir,419.3788,[H][C@]12CN3C=C(C(=O)NCC4=CC=C(F)C=C4F)C(=O)C(O)=C3C(=O)N1[C@H](C)CCO2,8.2,MSDS,8.2
+https://www.drugbank.ca/drugs/DB00327,Hydromorphone,285.3377,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])CCC2=O,8.2,Agilent. SAMHSA-Compilant Analysis of Opiates.,8.2
+https://www.drugbank.ca/drugs/DB00295,Morphine,285.3377,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,8.21,Agilent Technology. LC/MS/MS Analysis of Opiates. ,8.21 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00921,Buprenorphine,467.6401,CO[C@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1CC4=C5C(O[C@@H]2[C@@]35CCN1CC1CC1)=C(O)C=C4,8.31,"AVDEEF,A ET AL. (1996)",8.31 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00252,Phenytoin,252.268,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,8.33,SANGSTER (1994),8.33
+https://www.drugbank.ca/drugs/DB08797,Salicylamide,137.136,NC(=O)C1=CC=CC=C1O,8.37,"KORTUM,G ET AL (1961)",8.37 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00920,Ketotifen,309.425,CN1CCC(CC1)=C1C2=C(SC=C2)C(=O)CC2=CC=CC=C12,8.43,"<span class=""not-available"">Not Available</span>",8.43
+https://www.drugbank.ca/drugs/DB00891,Sulfapyridine,249.289,NC1=CC=C(C=C1)S(=O)(=O)NC1=CC=CC=N1,8.43,"PERRIN,DD (1965)",8.43
+https://www.drugbank.ca/drugs/DB00924,Cyclobenzaprine,275.3874,CN(C)CCC=C1C2=CC=CC=C2C=CC2=CC=CC=C12,8.47,FDA Label,8.47
+https://www.drugbank.ca/drugs/DB00436,Bendroflumethiazide,421.415,NS(=O)(=O)C1=CC2=C(NC(CC3=CC=CC=C3)NS2(=O)=O)C=C1C(F)(F)F,8.5,SANGSTER (1994),8.5
+https://www.drugbank.ca/drugs/DB00184,Nicotine,162.2316,CN1CCC[C@H]1C1=CN=CC=C1,8.5,http://www.surgeongeneral.gov/library/reports/50-years-of-progress/sgr50-chap-5.pdf,8.5
+https://www.drugbank.ca/drugs/DB06480,Prucalopride,367.87,COCCCN1CCC(CC1)NC(=O)C1=C2OCCC2=C(N)C(Cl)=C1,8.5,Resotrans data sheet (measure of piperidine moiety),8.5
+https://www.drugbank.ca/drugs/DB00845,Clofazimine,473.396,CC(C)N=C1C=C2N(C3=CC=C(Cl)C=C3)C3=C(C=CC=C3)N=C2C=C1NC1=CC=C(Cl)C=C1,8.51,"QUIGLEY,JM ET AL. (1990)",8.51
+https://www.drugbank.ca/drugs/DB00532,Mephenytoin,218.2518,CCC1(NC(=O)N(C)C1=O)C1=CC=CC=C1,8.51,"TOMLINSON,E &amp; HAFKENSCHEID,TL (1986)",8.51
+https://www.drugbank.ca/drugs/DB00908,Quinidine,324.4168,[H][C@@]12CCN(C[C@@H]1C=C)[C@]([H])(C2)[C@@H](O)C1=C2C=C(OC)C=CC2=NC=C1,8.56,SANGSTER (1994),8.56 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00368,Norepinephrine,169.1778,NC[C@H](O)C1=CC(O)=C(O)C=C1,8.58,"PERRIN,DD (1965)",8.58
+https://www.drugbank.ca/drugs/DB00668,Epinephrine,183.2044,CNC[C@H](O)C1=CC(O)=C(O)C=C1,8.59,https://pubchem.ncbi.nlm.nih.gov/compound/epinephrine#section=Stability,8.59 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00454,Meperidine,247.3327,CCOC(=O)C1(CCN(C)CC1)C1=CC=CC=C1,8.59,SANGSTER (1994),8.59
+https://www.drugbank.ca/drugs/DB09237,Levamlodipine,408.88,CCOC(=O)C1=C(COCCN)NC(C)=C([C@@H]1C1=CC=CC=C1Cl)C(=O)OC,8.6,FDA Label,8.6
+https://www.drugbank.ca/drugs/DB00779,Nalidixic acid,232.2353,CCN1C=C(C(O)=O)C(=O)C2=C1N=C(C)C=C2,8.6,"OSOL,A &amp; HOOVER,JE (1975)",8.6
+https://www.drugbank.ca/drugs/DB01021,Trichlormethiazide,380.656,NS(=O)(=O)C1=C(Cl)C=C2NC(NS(=O)(=O)C2=C1)C(Cl)Cl,8.6,"<span class=""not-available"">Not Available</span>",8.6
+https://www.drugbank.ca/drugs/DB00907,Cocaine,303.3529,[H][C@]12CC[C@]([H])([C@H]([C@H](C1)OC(=O)C1=CC=CC=C1)C(=O)OC)N2C,8.61,MERCK INDEX (1996),8.61 (at 15 °C)
+https://www.drugbank.ca/drugs/DB06782,Dimercaprol,124.225,OCC(S)CS,8.62,"SARGEANT,EP &amp; DEMPSEY,B (1979)",8.62 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01100,Pimozide,461.5462,FC1=CC=C(C=C1)C(CCCN1CCC(CC1)N1C(=O)NC2=CC=CC=C12)C1=CC=C(F)C=C1,8.63,"EL TAYAR,N ET AL. (1985)",8.63
+https://www.drugbank.ca/drugs/DB00502,Haloperidol,375.864,OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1,8.66,"EL TAYAR,N ET AL. (1985)",8.66
+https://www.drugbank.ca/drugs/DB00551,Acetohydroxamic acid,75.0666,CC(=O)NO,8.7,"SERJEANT,EP &amp; DEMPSEY,B (1979)",8.7 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00594,Amiloride,229.627,NC(=N)NC(=O)C1=NC(Cl)=C(N)N=C1N,8.7,"<span class=""not-available"">Not Available</span>",8.7
+https://www.drugbank.ca/drugs/DB00273,Topiramate,339.362,[H][C@@]12CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@@]3([H])[C@]1([H])OC(C)(C)O2,8.7,http://foodb.ca/compounds/FDB023601,8.7
+https://www.drugbank.ca/drugs/DB09205,Moxisylyte,279.38,CC(C)C1=C(OCCN(C)C)C=C(C)C(OC(C)=O)=C1,8.71,Microphysiology Database Project. University of Pittsburgh. ,8.71
+https://www.drugbank.ca/drugs/DB01119,Diazoxide,230.671,CC1=NS(=O)(=O)C2=C(N1)C=CC(Cl)=C2,8.74,SANGSTER (1994),8.74
+https://www.drugbank.ca/drugs/DB01656,Roflumilast,403.207,FC(F)OC1=C(OCC2CC2)C=C(C=C1)C(=O)NC1=C(Cl)C=NC=C1Cl,8.74,"<span class=""not-available"">Not Available</span>",8.74
+https://www.drugbank.ca/drugs/DB00662,Trimethobenzamide,388.4574,COC1=CC(=CC(OC)=C1OC)C(=O)NCC1=CC=C(OCCN(C)C)C=C1,8.78,"EL TAYAR,N ET AL. (1985)",8.78
+https://www.drugbank.ca/drugs/DB00610,Metaraminol,167.205,C[C@H](N)[C@H](O)C1=CC(O)=CC=C1,8.79,SANGSTER (1994),8.79
+https://www.drugbank.ca/drugs/DB00808,Indapamide,365.835,CC1CC2=CC=CC=C2N1NC(=O)C1=CC(=C(Cl)C=C1)S(N)(=O)=O,8.8,FDA Label,8.8
+https://www.drugbank.ca/drugs/DB00277,Theophylline,180.164,CN1C2=C(NC=N2)C(=O)N(C)C1=O,8.81,"KORTUM,G ET AL (1961)",8.81
+https://www.drugbank.ca/drugs/DB00174,Asparagine,132.1179,N[C@@H](CC(N)=O)C(O)=O,8.82,"KORTUM,G ET AL (1961)",8.82 (at 18 °C)
+https://www.drugbank.ca/drugs/DB00527,Cinchocaine,343.4632,CCCCOC1=NC2=CC=CC=C2C(=C1)C(=O)NCCN(CC)CC,8.85,SANGSTER (1994),8.85
+https://www.drugbank.ca/drugs/DB06691,Mepyramine,285.384,COC1=CC=C(CN(CCN(C)C)C2=NC=CC=C2)C=C1,8.85,"PERRIN,DD (1965)",8.85 (at 20 °C)
+https://www.drugbank.ca/drugs/DB05351,Dexlansoprazole,369.36,CC1=C(OCC(F)(F)F)C=CN=C1C[S@@](=O)C1=NC2=CC=CC=C2N1,8.87,MSDS,8.87
+https://www.drugbank.ca/drugs/DB00652,Pentazocine,285.4238,C[C@H]1[C@H]2CC3=CC=C(O)C=C3[C@]1(C)CCN2CC=C(C)C,8.88,SANGSTER (1994),8.88
+https://www.drugbank.ca/drugs/DB00843,Donepezil,379.492,COC1=C(OC)C=C2C(=O)C(CC3CCN(CC4=CC=CC=C4)CC3)CC2=C1,8.9,https://www.sunpharma.com/australia-pi-download/50508/Donepezil,8.9
+https://www.drugbank.ca/drugs/DB00774,Hydroflumethiazide,331.292,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1C(F)(F)F,8.9,"BUDAVARI,S ET AL. (1996)",8.9
+https://www.drugbank.ca/drugs/DB01173,Orphenadrine,269.3813,CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1C,8.91,SANGSTER (1994),8.91
+https://www.drugbank.ca/drugs/DB00988,Dopamine,153.1784,NCCC1=CC(O)=C(O)C=C1,8.93,"PERRIN,DD (1965)",8.93
+https://www.drugbank.ca/drugs/DB01268,Sunitinib,398.4738,CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C,8.95,FDA label ,8.95
+https://www.drugbank.ca/drugs/DB01142,Doxepin,279.3761,[H]C(CCN(C)C)=C1C2=CC=CC=C2COC2=CC=CC=C12,8.96,Embil K. and Torosian G. 1982. J Pharm Sci. ,8.96
+https://www.drugbank.ca/drugs/DB00388,Phenylephrine,167.205,CNC[C@H](O)C1=CC(O)=CC=C1,8.97,SANGSTER (1994),8.97
+https://www.drugbank.ca/drugs/DB01075,Diphenhydramine,255.3547,CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1,8.98,SANGSTER (1994),8.98
+https://www.drugbank.ca/drugs/DB00813,Fentanyl,336.4705,CCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1)C1=CC=CC=C1,8.99,https://www.ncbi.nlm.nih.gov/pubmed/2569731,8.99
+https://www.drugbank.ca/drugs/DB01246,Alimemazine,298.446,CC(CN(C)C)CN1C2=CC=CC=C2SC2=CC=CC=C12,9.05,SANGSTER (1994),9.05
+https://www.drugbank.ca/drugs/DB01069,Promethazine,284.419,CC(CN1C2=CC=CC=C2SC2=CC=CC=C12)N(C)C,9.1,SANGSTER (1994),9.1
+https://www.drugbank.ca/drugs/DB00391,Sulpiride,341.426,CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O,9.12,"EL TAYAR,N ET AL. (1985)",9.12
+https://www.drugbank.ca/drugs/DB01114,Chlorpheniramine,274.788,CN(C)CCC(C1=CC=C(Cl)C=C1)C1=CC=CC=N1,9.13,"PERRIN,DD (1965)",9.13 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01104,Sertraline,306.23,CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12,9.16,https://www.ncbi.nlm.nih.gov/pubmed/16848750,9.16
+https://www.drugbank.ca/drugs/DB01403,Methotrimeprazine,328.472,COC1=CC2=C(SC3=C(C=CC=C3)N2C[C@H](C)CN(C)C)C=C1,9.19,SANGSTER (1994),9.19
+https://www.drugbank.ca/drugs/DB00402,Eszopiclone,388.808,CN1CCN(CC1)C(=O)O[C@@H]1N(C(=O)C2=NC=CN=C12)C1=NC=C(Cl)C=C1,9.2,"<span class=""not-available"">Not Available</span>",9.2
+https://www.drugbank.ca/drugs/DB01437,Glutethimide,217.2637,CCC1(CCC(=O)NC1=O)C1=CC=CC=C1,9.2,SANGSTER (1994),9.2
+https://www.drugbank.ca/drugs/DB00333,Methadone,309.4452,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,9.2,A497,9.2
+https://www.drugbank.ca/drugs/DB00379,Mexiletine,179.2588,CC(N)COC1=C(C)C=CC=C1C,9.2,"<span class=""not-available"">Not Available</span>",9.2
+https://www.drugbank.ca/drugs/DB00373,Timolol,316.42,[H][C@](O)(CNC(C)(C)C)COC1=NSN=C1N1CCOCC1,9.2,http://secure.healthlinks.net.au/content/apo/index_pi_apo.cfm?product=txpdorti,9.2
+https://www.drugbank.ca/drugs/DB02546,Vorinostat,264.3202,ONC(=O)CCCCCCC(=O)NC1=CC=CC=C1,9.2,"<span class=""not-available"">Not Available</span>",9.2
+https://www.drugbank.ca/drugs/DB00960,Pindolol,248.3208,CC(C)NCC(O)COC1=CC=CC2=C1C=CN2,9.25,SANGSTER (1994),9.25
+https://www.drugbank.ca/drugs/DB01233,Metoclopramide,299.796,CCN(CC)CCNC(=O)C1=CC(Cl)=C(N)C=C1OC,9.27,https://pubchem.ncbi.nlm.nih.gov/compound/Metoclopramide,9.27
+https://www.drugbank.ca/drugs/DB00477,Chlorpromazine,318.864,CN(C)CCCN1C2=CC=CC=C2SC2=C1C=C(Cl)C=C2,9.3,"HANSCH,C &amp; LEO,AJ (1985)",9.3 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01195,Flecainide,414.3427,FC(F)(F)COC1=CC(C(=O)NCC2CCCCN2)=C(OCC(F)(F)F)C=C1,9.3,FDA Label,9.3
+https://www.drugbank.ca/drugs/DB00598,Labetalol,328.4055,CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1,9.3,https://pubchem.ncbi.nlm.nih.gov/compound/Labetalol#section=Caco2-Permeability,9.3
+https://www.drugbank.ca/drugs/DB09209,Pholcodine,398.4953,[H][C@@]12OC3=C(OCCN4CCOCC4)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,9.3,"Moffat, 1986",9.3
+https://www.drugbank.ca/drugs/DB08905,Formestane,302.4079,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C,9.31,MSDS,9.31
+https://www.drugbank.ca/drugs/DB01035,Procainamide,235.3253,CCN(CC)CCNC(=O)C1=CC=C(N)C=C1,9.32,SANGSTER (1994),9.32
+https://www.drugbank.ca/drugs/DB00420,Promazine,284.419,CN(C)CCCN1C2=CC=CC=C2SC2=CC=CC=C12,9.36,SANGSTER (1994),9.36
+https://www.drugbank.ca/drugs/DB06288,Amisulpride,369.479,CCN1CCCC1CNC(=O)C1=CC(=C(N)C=C1OC)S(=O)(=O)CC,9.37,"<span class=""not-available"">Not Available</span>",9.37
+https://www.drugbank.ca/drugs/DB00321,Amitriptyline,277.4033,CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,9.4,https://www.chemicalbook.com/ChemicalProductProperty_US_CB1159271.aspx,9.4
+https://www.drugbank.ca/drugs/DB00195,Betaxolol,307.4278,CC(C)NCC(O)COC1=CC=C(CCOCC2CC2)C=C1,9.4,"<span class=""not-available"">Not Available</span>",9.4
+https://www.drugbank.ca/drugs/DB00458,Imipramine,280.4073,CN(C)CCCN1C2=CC=CC=C2CCC2=CC=CC=C12,9.4,SANGSTER (1994),9.4
+https://www.drugbank.ca/drugs/DB00193,Tramadol,263.3752,COC1=CC=CC(=C1)[C@@]1(O)CCCC[C@@H]1CN(C)C,9.41,'FDA label',9.41
+https://www.drugbank.ca/drugs/DB00571,Propranolol,259.3434,CC(C)NCC(O)COC1=CC=CC2=C1C=CC=C2,9.42,SANGSTER (1994),9.42
+https://www.drugbank.ca/drugs/DB00572,Atropine,289.3694,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)C1=CC=CC=C1,9.43,SANGSTER (1994),9.43
+https://www.drugbank.ca/drugs/DB04948,Lofexidine,259.132,CC(OC1=C(Cl)C=CC=C1Cl)C1=NCCN1,9.43,FDA Advisory Committee Briefing Document.,9.43
+https://www.drugbank.ca/drugs/DB00397,Phenylpropanolamine,151.209,[H][C@@](C)(N)[C@]([H])(O)C1=CC=CC=C1,9.44,"PERRIN,DD (1965)",9.44 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00612,Bisoprolol,325.443,CC(C)NCC(O)COC1=CC=C(COCCOC(C)C)C=C1,9.5,https://www.sandoz.ca/sites/www.sandoz.ca/files/Bisoprolol_TAB_Monograph.pdf,9.5
+https://www.drugbank.ca/drugs/DB01175,Escitalopram,324.3919,CN(C)CCC[C@]1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,9.5,DPD Label,9.5
+https://www.drugbank.ca/drugs/DB06608,Tafenoquine,463.501,COC1=CC(C)=C2C(OC3=CC=CC(=C3)C(F)(F)F)=C(OC)C=C(NC(C)CCCN)C2=N1,9.5,Marella A. et al. (2013). Saudi Pharm J. Jan; 21 (1): 1-12,9.5
+https://www.drugbank.ca/drugs/DB00679,Thioridazine,370.575,CSC1=CC2=C(SC3=CC=CC=C3N2CCC2CCCCN2C)C=C1,9.5,"EL TAYAR,N ET AL. (1985)",9.5
+https://www.drugbank.ca/drugs/DB06151,Acetylcysteine,163.195,CC(=O)N[C@@H](CS)C(O)=O,9.52,SERJEANT &amp; DEMPSEY (1979),9.52 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00854,Levorphanol,257.3706,[H][C@@]12CCCC[C@@]11CCN(C)[C@@H]2CC2=C1C=C(O)C=C2,9.58,SANGSTER (1994),9.58
+https://www.drugbank.ca/drugs/DB00335,Atenolol,266.3361,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,9.6,MERCK INDEX (2001),9.6
+https://www.drugbank.ca/drugs/DB00315,Zolmitriptan,287.3568,CN(C)CCC1=CNC2=CC=C(C[C@H]3COC(=O)N3)C=C12,9.64,https://www.astrazeneca.ca/content/dam/az-ca/downloads/productinformation/zomig-product-monograph-en.pdf,9.64
+https://www.drugbank.ca/drugs/DB01611,Hydroxychloroquine,335.872,CCN(CCO)CCCC(C)NC1=C2C=CC(Cl)=CC2=NC=C1,9.67,https://watermark.silverchair.com/dkg319.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAjkwggI1BgkqhkiG9w0BBwagggImMIICIgIBADCCAhsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMINydGQAq9Ykq8ITSAgEQgIIB7KN6oy2fz4KHncExNPnuAQKYKCeJ2g-83oHmwqGXYloWqkUp7V_gNgs5P23NTTIZEIF_Tkfp9eBMlYlDl9YykaAzqA5UdihXdzBCxmyGaNX6adn_ov0d4hq2omPSpPVCW2dnKAaalROUpR1cm7FYyTXdiDdOn2LWFKDKmA7uuEFJ1ma7-5iCQKV86x7H1W4HOu7WEBQ_dgJPGZVH64g4KrC5SEw-ekFVVL4w40J_LDqVn5mR8sS57huG_Y7d4CWhtyc6Ko27hCp_nBEeaAo95nB4odR0zFGSEASSQZXGMaO2D8zHqk1wCTDVrTLJuyzjEFMel6T-k3yZQwIVdoNxcEY1bh8VwnEz0ugIrqAkimv5xjB9m8en6H1VhrEIhOVmW2GNJGF3No03F01vn3ePhKCXzgu7v3591flqV46i7r2ZnUYNDmE39IbXww4fqX_551wAPap6lMJ0fMsD_z2l3OzHUVis9cMUJm-nC3LtunwGotVRT4Xf8s7Y-La-5NGHI9KoQPfonM-jJcQ5C9sJFkQHasuB2_a3Inu_DFo-KMOAevqW4txzmR-QnwwV13kIHkcEP03vP0ByDKcsQM2mf2py_K2JxTENhiK0B2xc30W2W4fC1HbkrT-Jd9YStj2-A83nNX0_GMFSn4DT3A,9.67
+https://www.drugbank.ca/drugs/DB01203,Nadolol,309.4006,CC(C)(C)NCC(O)COC1=CC=CC2=C1C[C@H](O)[C@H](O)C2,9.67,MERCK INDEX (2001),9.67
+https://www.drugbank.ca/drugs/DB00535,Cefdinir,395.414,[H][C@]12SCC(C=C)=C(N1C(=O)[C@H]2NC(=O)C(=N/O)\C1=CSC(N)=N1)C(O)=O,9.7,https://www.chemicalbook.com/ChemicalProductProperty_US_CB7483101.aspx,9.7
+https://www.drugbank.ca/drugs/DB00264,Metoprolol,267.3639,COCCC1=CC=C(OCC(O)CNC(C)C)C=C1,9.7,Long W. Agilent Technologies. Separation of Beta Blockers at Low and High pH Using Agilent Poroshell HPH C18,9.7
+https://www.drugbank.ca/drugs/DB00540,Nortriptyline,263.3767,CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12,9.7,https://www.chemicalbook.com/ChemicalProductProperty_US_CB1317147.aspx,9.7
+https://www.drugbank.ca/drugs/DB04824,Phenolphthalein,318.3228,OC1=CC=C(C=C1)C1(OC(=O)C2=CC=CC=C12)C1=CC=C(O)C=C1,9.7,MERCK INDEX (1996),9.7 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00592,Piperazine,86.1356,C1CNCCN1,9.73,"PERRIN,DD (1972)",9.73
+https://www.drugbank.ca/drugs/DB00215,Citalopram,324.3919,CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1,9.78,http://www.t3db.ca/toxins/T3D2715,9.78
+https://www.drugbank.ca/drugs/DB00191,Phentermine,149.2328,CC(C)(N)CC1=CC=CC=C1,9.84,Suprenza - package insert. (2014),9.84
+https://www.drugbank.ca/drugs/DB01577,Metamfetamine,149.2328,CN[C@@H](C)CC1=CC=CC=C1,9.87,"PERRIN,DD (1965)",9.87 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00182,Amphetamine,135.2062,CC(N)CC1=CC=CC=C1,9.9,ADDERALL XR (amphetamine) FDA label,9.9
+https://www.drugbank.ca/drugs/DB00715,Paroxetine,329.3654,FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1,9.9,https://ca.gsk.com/media/530543/paxil_pm-2014-11-13.pdf,9.9
+https://www.drugbank.ca/drugs/DB00574,Fenfluramine,231.2573,CCNC(C)CC1=CC=CC(=C1)C(F)(F)F,9.92,L14632,9.92
+https://www.drugbank.ca/drugs/DB00382,Tacrine,198.2637,NC1=C2CCCCC2=NC2=CC=CC=C12,9.95,"PERRIN,DD (1972)",9.95 (at 20 °C)
+https://www.drugbank.ca/drugs/DB13421,Edoxudine,256.258,CCC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O,9.98,'MSDS',9.98
+https://www.drugbank.ca/drugs/DB03255,Phenol,94.1112,OC1=CC=CC=C1,9.99,"SERJEANT,EP &amp; DEMPSEY,B (1979)",9.99 (at 25 °C)
+https://www.drugbank.ca/drugs/DB00245,Benzatropine,307.4293,[H][C@]12CC[C@]([H])(C[C@@]([H])(C1)OC(C1=CC=CC=C1)C1=CC=CC=C1)N2C,10,Troy D. and Beringer P. 2006. Remington: The Science and Practice of Pharmacy.,10
+https://www.drugbank.ca/drugs/DB00336,Nitrofural,198.1362,NC(=O)N\N=C\C1=CC=C(O1)[N+]([O-])=O,10,SANGSTER (1994),10
+https://www.drugbank.ca/drugs/DB06698,Betahistine,136.1943,CNCCC1=CC=CC=N1,10.1,"PERRIN,DD (1965)",10.1 (at 10 °C)
+https://www.drugbank.ca/drugs/DB00608,Chloroquine,319.872,CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12,10.1,SANGSTER (1994),10.1
+https://www.drugbank.ca/drugs/DB00289,Atomoxetine,255.3547,CNCC[C@@H](OC1=CC=CC=C1C)C1=CC=CC=C1,10.13,Atomoxetine. Eli Lilly product monograph.,10.13
+https://www.drugbank.ca/drugs/DB00268,Ropinirole,260.3746,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1,10.17,http://www.t3db.ca/toxins/T3D2731,10.17
+https://www.drugbank.ca/drugs/DB00437,Allopurinol,136.1115,OC1=NC=NC2=C1C=NN2,10.2,https://www.chemicalbook.com/ChemicalProductProperty_US_CB1181254.aspx,10.2 (at 25℃)
+https://www.drugbank.ca/drugs/DB00140,Riboflavin,376.3639,CC1=C(C)C=C2N(C[C@H](O)[C@H](O)[C@H](O)CO)C3=NC(=O)NC(=O)C3=NC2=C1,10.2,"BUDAVARI,S ET AL. (1996)",10.2
+https://www.drugbank.ca/drugs/DB00909,Zonisamide,212.226,NS(=O)(=O)CC1=NOC2=CC=CC=C12,10.2,"<span class=""not-available"">Not Available</span>",10.2
+https://www.drugbank.ca/drugs/DB01043,Memantine,179.3018,CC12CC3CC(C)(C1)CC(N)(C3)C2,10.27,https://www.lundbeck.com/upload/ca/en/files/pdf/pm/Ebixa.pdf,10.27
+https://www.drugbank.ca/drugs/DB01364,Ephedrine,165.2322,CN[C@@H](C)[C@H](O)C1=CC=CC=C1,10.3,"PERRIN,DD (1965)",10.3 (at 0 °C)
+https://www.drugbank.ca/drugs/DB00852,Pseudoephedrine,165.2322,CN[C@@H](C)[C@@H](O)C1=CC=CC=C1,10.3,"PERRIN,DD (1965)",10.3 (at 0 °C)
+https://www.drugbank.ca/drugs/DB01001,Salbutamol,239.3107,CC(C)(C)NCC(O)C1=CC(CO)=C(O)C=C1,10.3,"<span class=""not-available"">Not Available</span>",10.3
+https://www.drugbank.ca/drugs/DB00797,Tolazoline,160.2157,C(C1=NCCN1)C1=CC=CC=C1,10.3,SANGSTER (1994),10.3
+https://www.drugbank.ca/drugs/DB01151,Desipramine,266.3807,CNCCCN1C2=CC=CC=C2CCC2=CC=CC=C12,10.4,SANGSTER (1994),10.4
+https://www.drugbank.ca/drugs/DB00294,Etonogestrel,324.4565,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC(=C)[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],10.4,Toral M. et al. J. Chil. Chem. 2013,10.4
+https://www.drugbank.ca/drugs/DB01247,Isocarboxazid,231.2505,CC1=CC(=NO1)C(=O)NNCC1=CC=CC=C1,10.4,SANGSTER (1994),10.4
+https://www.drugbank.ca/drugs/DB00783,Estradiol,272.382,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,10.46,"Profiles of Drug Substances, Excipients and Related Methodology Volume 33",10.46±0.03
+https://www.drugbank.ca/drugs/DB01255,Lisdexamfetamine,263.3785,C[C@@H](CC1=CC=CC=C1)NC(=O)[C@@H](N)CCCCN,10.5,https://www.tga.gov.au/sites/.../auspar-lisdexamfetamine-dimesilate-131023-pi.docx,10.5
+https://www.drugbank.ca/drugs/DB00334,Olanzapine,312.432,CN1CCN(CC1)C1=NC2=CC=CC=C2NC2=C1C=C(C)S2,10.57,Mylan-Olanzapine product monograph,10.57
+https://www.drugbank.ca/drugs/DB00470,Dronabinol,314.4617,[H][C@@]12C=C(C)CC[C@@]1([H])C(C)(C)OC1=C2C(O)=CC(CCCCC)=C1,10.6,PHYSICIAN'S DESK REFERENCE (1998),10.6
+https://www.drugbank.ca/drugs/DB01171,Moclobemide,268.739,ClC1=CC=C(C=C1)C(=O)NCCN1CCOCC1,10.6,[L1357],10.6 (ethanol-air)
+https://www.drugbank.ca/drugs/DB00259,Sulfanilamide,172.205,NC1=CC=C(C=C1)S(N)(=O)=O,10.6,"SERJEANT,EP &amp; DEMPSEY,B (1979)",10.6 (at 20 °C)
+https://www.drugbank.ca/drugs/DB02513,Thymol,150.2176,CC(C)C1=CC=C(C)C=C1O,10.6,"SERJEANT,EP &amp; DEMPSEY,B (1979)",10.6 (at 20 °C)
+https://www.drugbank.ca/drugs/DB04953,Ezogabine,303.3314,CCOC(=O)NC1=C(N)C=C(NCC2=CC=C(F)C=C2)C=C1,10.8,"<span class=""not-available"">Not Available</span>",10.8
+https://www.drugbank.ca/drugs/DB00305,Mitomycin,334.3272,[H][C@]12CN3C4=C([C@@H](COC(N)=O)[C@@]3(OC)[C@@]1([H])N2)C(=O)C(N)=C(C)C4=O,10.9,"HANSCH,C ET AL. (1995)",10.9
+https://www.drugbank.ca/drugs/DB06637,Dalfampridine,94.1145,NC1=CC=NC=C1,11,MSDS,11
+https://www.drugbank.ca/drugs/DB00482,Celecoxib,381.372,CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F,11.1,https://www.pfizermedicalinformation.com/en-us/celebrex/description,11.1
+https://www.drugbank.ca/drugs/DB00818,Propofol,178.2707,CC(C)C1=CC=CC(C(C)C)=C1O,11.1,"SERJEANT,EP &amp; DEMPSEY,B (1979)",11.1 (at 20 °C)
+https://www.drugbank.ca/drugs/DB00424,Hyoscyamine,289.3694,CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)[C@H](CO)C1=CC=CC=C1,11.7,MERCK INDEX (1996),11.7
+https://www.drugbank.ca/drugs/DB12941,Darolutamide,398.85,C[C@@H](CN1C=CC(=N1)C1=CC=C(C#N)C(Cl)=C1)NC(=O)C1=NNC(=C1)C(C)O,11.75,https://s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB12941.pdf?1577134173,11.75
+https://www.drugbank.ca/drugs/DB01128,Bicalutamide,430.373,CC(O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F,12,"<span class=""not-available"">Not Available</span>",12
+https://www.drugbank.ca/drugs/DB01394,Colchicine,399.437,COC1=CC2=C(C(OC)=C1OC)C1=CC=C(OC)C(=O)C=C1C(CC2)NC(C)=O,12.36,https://www.chemicalbook.com/ChemicalProductProperty_US_CB6391144.aspx,12.36
+https://www.drugbank.ca/drugs/DB00331,Metformin,129.1636,CN(C)C(=N)NC(N)=N,12.4,FDA label,12.4
+https://www.drugbank.ca/drugs/DB00536,Guanidine,59.0705,NC(N)=N,12.5,"<span class=""not-available"">Not Available</span>",12.5
+https://www.drugbank.ca/drugs/DB05676,Apremilast,460.5,CCOC1=CC(=CC=C1OC)[C@@H](CS(C)(=O)=O)N1C(=O)C2=CC=CC(NC(C)=O)=C2C1=O,12.58,https://pubchem.ncbi.nlm.nih.gov/compound/Apremilast#section=Solubility,12.58
+https://www.drugbank.ca/drugs/DB02772,Sucrose,342.2965,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,12.6,MERCK INDEX (1996),12.6
+https://www.drugbank.ca/drugs/DB00186,Lorazepam,321.158,OC1N=C(C2=CC=CC=C2Cl)C2=C(NC1=O)C=CC(Cl)=C2,13,MERCK INDEX (1996); pK1,13
+https://www.drugbank.ca/drugs/DB00304,Desogestrel,310.473,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC(=C)[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H],13.04,ChemicalBook,13.04
+https://www.drugbank.ca/drugs/DB03843,Formaldehyde,30.026,[H]C([H])=O,13.3,"SERJEANT,EP &amp; DEMPSEY,B (1979)",13.3 (at 25 °C)
+https://www.drugbank.ca/drugs/DB08907,Canagliflozin,444.516,[H][C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=CC=C(C)C(CC2=CC=C(S2)C2=CC=C(F)C=C2)=C1,13.34,https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL2103841/,13.34
+https://www.drugbank.ca/drugs/DB00227,Lovastatin,404.5396,[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)[C@@H](C)CC,13.49,Chuong M. et al. (2013). International Journal of Applied Pharmaceutics.,13.49
+https://www.drugbank.ca/drugs/DB00742,Mannitol,182.1718,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,13.5,"BUDAVARI,S ET AL. (1996)",13.5 (at 25 °C)
+https://www.drugbank.ca/drugs/DB01638,Sorbitol,182.1718,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,13.6,"BENSON,FR (1978)",13.6
+https://www.drugbank.ca/drugs/DB00776,Oxcarbazepine,252.268,NC(=O)N1C2=CC=CC=C2CC(=O)C2=C1C=CC=C2,13.73,Canadian label,13.73
+https://www.drugbank.ca/drugs/DB00591,Fluocinolone acetonide,452.4882,[H][C@@]12C[C@@]3([H])[C@]4([H])C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]1(OC(C)(C)O2)C(=O)CO,13.9,Graham P. (2013). An Introduction to Medicinal Chemistry. Fifth ed. Oxford.,13.9
+https://www.drugbank.ca/drugs/DB00201,Caffeine,194.1906,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,14,https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma-Aldrich/Product_Information_Sheet/c0750pis.pdf,14
+SAMPL6,SM01,,c1cc2c(cc1O)c3c(o2)C(=O)NCCC3,9.53,,UV-metric pKa
+SAMPL6,SM02,,c1ccc2c(c1)c(ncn2)Nc3cccc(c3)C(F)(F)F,5.03,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM03,,c1ccc(cc1)Cc2nnc(s2)NC(=O)c3cccs3,7.02,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM04,,c1ccc2c(c1)c(ncn2)NCc3ccc(cc3)Cl,6.02,,UV-metric pKa
+SAMPL6,SM05,,c1ccc(c(c1)NC(=O)c2ccc(o2)Cl)N3CCCCC3,4.59,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM07,,c1ccc(cc1)CNc2c3ccccc3ncn2,6.08,,UV-metric pKa
+SAMPL6,SM08,,Cc1ccc2c(c1)c(c(c(=O)[nH]2)CC(=O)O)c3ccccc3,4.22,,UV-metric pKa
+SAMPL6,SM09,,COc1cccc(c1)Nc2c3ccccc3ncn2.Cl,5.37,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM10,,c1ccc(cc1)C(=O)NCC(=O)Nc2nc3ccccc3s2,9.02,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM11,,c1ccc(cc1)n2c3c(cn2)c(ncn3)N,3.89,,UV-metric pKa
+SAMPL6,SM12,,c1ccc2c(c1)c(ncn2)Nc3cccc(c3)Cl.Cl,5.28,,UV-metric pKa
+SAMPL6,SM13,,Cc1cccc(c1)Nc2c3cc(c(cc3ncn2)OC)OC,5.77,,UV-metric pKa
+SAMPL6,SM17,,c1ccc(cc1)CSc2nnc(o2)c3ccncc3,3.16,,UV-metric pKa
+SAMPL6,SM19,,CCOc1ccc2c(c1)sc(n2)NC(=O)Cc3ccc(c(c3)Cl)Cl,9.56,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM20,,c1cc(cc(c1)OCc2ccc(cc2Cl)Cl)/C=C/3\C(=O)NC(=O)S3,5.7,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM21,,c1cc(cc(c1)Br)Nc2c(cnc(n2)Nc3cccc(c3)Br)F,4.1,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM23,,CCOC(=O)c1ccc(cc1)Nc2cc(nc(n2)Nc3ccc(cc3)C(=O)OCC)C,5.45,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"
+SAMPL6,SM24,,COc1ccc(cc1)c2c3c(ncnc3oc2c4ccc(cc4)OC)NCCO,2.6,,"UV-metric psKa, Yasuda-Shedlovsky Extrapolation"

@@ -1,0 +1,13 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM06,micro001,c1cc2cccnc2c(c1)NC(=O)c3cc(cnc3)Br,0,1
+SM06,micro002,c1cc2ccc[nH+]c2c(c1)NC(=O)c3cc(c[nH+]c3)Br,2,3
+SM06,micro003,c1cc2ccc[nH+]c2c(c1)[N-]C(=[OH+])c3cc(cnc3)Br,1,2
+SM06,micro004,[O-]/C(=N\c1cccc2ccc[nH+]c12)c1c[nH+]cc(Br)c1,1,2
+SM06,micro005,[O-]C(=[NH+]c1cccc2cccnc12)c1c[nH+]cc(Br)c1,1,2
+SM06,micro006,c1cc2cccnc2c(c1)NC(=[OH+])c3cc(cnc3)Br,1,2
+SM06,micro007,c1cc2ccc[nH+]c2c(c1)NC(=O)c3cc(cnc3)Br,1,2
+SM06,micro008,[O-]/C(=N\c1cccc2cccnc12)c1cncc(Br)c1,-1,0
+SM06,micro009,[O-]/C(=N\c1cccc2ccc[nH+]c12)c1cncc(Br)c1,0,1
+SM06,micro010,[O-]/C(=N\c1cccc2cccnc12)c1c[nH+]cc(Br)c1,0,1
+SM06,micro011,c1cc2cccnc2c(c1)[N-]C(=[OH+])c3cc(cnc3)Br,0,1
+SM06,micro012,c1cc2ccc[nH+]c2c(c1)NC(=[OH+])c3cc(cnc3)Br,2,3

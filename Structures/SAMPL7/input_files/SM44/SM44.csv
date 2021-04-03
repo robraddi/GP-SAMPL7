@@ -1,0 +1,4 @@
+macrostate ID,microstate ID,smiles,charge state,nHydrogens
+SM44,micro000,CS(=O)(=O)Nc1cn(nn1)c2ccccc2,0,1
+SM44,micro001,CS(=O)(=O)[N-]c1cn(-c2ccccc2)nn1,-1,0
+SM44,micro002,CS(=O)(=O)Nc1cn(-c2ccccc2)n[nH+]1,1,2
