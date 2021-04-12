@@ -10,7 +10,7 @@
     - Department of Chemistry, Temple University
     
 
-Prediction of relative free energies and macroscopic $pK_{a}$s for SAMPL6 and SAMPL7 small molecules using a standard Gaussian process regression as well as a deep Gaussian process regression.
+Prediction of relative free energies and macroscopic pKas for SAMPL6 and SAMPL7 small molecules using a standard Gaussian process regression as well as a deep Gaussian process regression.
 
 
 ### Below is a description of what this repository contains:
@@ -24,11 +24,11 @@ Prediction of relative free energies and macroscopic $pK_{a}$s for SAMPL6 and SA
   - [`scripts_and_notebooks/runme_deepGP.py`](scripts_and_notebooks/runme_deepGP.py): script for running deep Gaussian process regression using `deepGPy`
 - [`Structures/`](Structures/): input smiles strings, input microtransitions
 - [`Submissions/`](Submissions/): SAMPL7 submission (**only for the standard GP model**)
-- [`predictions/`](predictions/): directories separating results & prediction files for SAMPL6 and SAMPL7. Each consisting of relative free energies and macroscopic $pK_{a}$ values for each small molecule.
-  - [`predictions/SAMPL6_deepGP/`](predictions/SAMPL6_deepGP/): free energies and macro-$pK_{a}$ predictions
-  - [`predictions/SAMPL6_stdGP/`](predictions/SAMPL6_stdGP/): free energies and macro-$pK_{a}$ predictions
-  - [`predictions/SAMPL7_deepGP/`](predictions/SAMPL7_deepGP/): free energies and macro-$pK_{a}$ predictions
-  - [`predictions/SAMPL7_stdGP/`](predictions/SAMPL7_stdGP/): free energies and macro-$pK_{a}$ predictions
+- [`predictions/`](predictions/): directories separating results & prediction files for SAMPL6 and SAMPL7. Each consisting of relative free energies and macroscopic pKa values for each small molecule.
+  - [`predictions/SAMPL6_deepGP/`](predictions/SAMPL6_deepGP/): free energies and macro-pKa predictions
+  - [`predictions/SAMPL6_stdGP/`](predictions/SAMPL6_stdGP/): free energies and macro-pKa predictions
+  - [`predictions/SAMPL7_deepGP/`](predictions/SAMPL7_deepGP/): free energies and macro-pKa predictions
+  - [`predictions/SAMPL7_stdGP/`](predictions/SAMPL7_stdGP/): free energies and macro-pKa predictions
 - [`pKaDatabase/`](pKaDatabase/): curated database from various sources.
   - [`pKaDatabase/pKaDatabase.pkl`](pKaDatabase/pKaDatabase.pkl): pickle file of database (loads with pandas) **NOTE: feature calculations already performed and stored inside `pd.read_pickle('pKaDatabase.pkl')`**
   - [`pKaDatabase/Sulfonamides.pkl`](pKaDatabase/Sulfonamides.pkl): pickle file of only sulfonamides database (loads with pandas)
