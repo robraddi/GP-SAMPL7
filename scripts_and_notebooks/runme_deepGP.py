@@ -470,8 +470,6 @@ def train_for_kernel_parameters(file, training, feats):
 
     gp.optimize(optimizer, messages=True, max_iters=100)
 #    gp.optimize(optimizer, messages=True, max_iters=500)
-
-
     #gp.optimize_restarts(num_restarts=10, robust=True, parallel=True, num_processes=6)
     #gp.optimize_restarts(num_restarts=10)
 
@@ -486,7 +484,6 @@ def train_for_kernel_parameters(file, training, feats):
     print(f"Log likelihood: {log_likelihood}")
 
     print("Running k fold cross validation...")
-    #results = GPR.statistics.k_fold_cross_val(gp, X, y, folds=4)
     results = k_fold_cross_val(gp, X, y, scale, offset, folds=3)
     results.to_pickle(file)
     results = pd.read_pickle(file)
@@ -509,6 +506,7 @@ def train_for_kernel_parameters(file, training, feats):
 
 #:}}}
 
+# Model selection:{{{
 def model_selection(X, y, layers=[], inducing_vars=[]):
     """
     Args
@@ -600,7 +598,7 @@ def model_selection(X, y, layers=[], inducing_vars=[]):
             gp.save(output_filename)
             results.append(model_results)
         return pd.DataFrame(results[:])
-
+#:}}}
 
 training = training.dropna()
 #training = training.iloc[::3]
@@ -809,7 +807,7 @@ for i,file in enumerate(files):
     #print(test)
     #fig.savefig(os.path.join(output_path,f"{name}_Posterior_only.png"))
 
-    df.to_pickle(os.path.join(output_path,f"Bannan_GPR_StdGP_GPy_results.pkl"))
+    df.to_pickle(os.path.join(output_path,f"results.pkl"))
     #print(f"Kernel: {name}")
     if isnotebook():
         display(HTML(pd.DataFrame(kernel.get_params()).to_html()))

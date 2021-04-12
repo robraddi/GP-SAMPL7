@@ -1,6 +1,5 @@
 # load python libraries:{{{
 import sys,os
-sys.path.append("../")
 import GPR
 #from GPR import toolbox
 from GPR.toolbox import mkdir, get_files
