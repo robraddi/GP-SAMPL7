@@ -718,6 +718,7 @@ def compute_AM1BCC_charges(molecule, atoms="heavy"):
     from openforcefield.topology import Molecule
     #https://open-forcefield-toolkit.readthedocs.io/en/topology/api/generated/openforcefield.topology.Molecule.html#openforcefield.topology.Molecule.compute_wiberg_bond_orders
     molecule = Molecule.from_rdkit(molecule, allow_undefined_stereo=True)
+    #molecule.generate_conformers()
     molecule.compute_partial_charges_am1bcc()
     #molecule.compute_wilberg_bond_orders(charge_model="AM1")
     #help(molecule)
