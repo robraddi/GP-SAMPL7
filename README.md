@@ -17,7 +17,7 @@ Prediction of relative free energies and macroscopic pKas for SAMPL6 and SAMPL7 
 
 - [`GPR/`](GPR/): the code to perform standard and deep GPR, processing, analysis, etc.
 - [`scripts_and_notebooks/`](scripts_and_notebooks/): scripts that call on `GPR/` e.g., script to get features, analysis notebooks
-  - [`scripts_and_notebooks/compile_results.ipynb`](scripts_and_notebooks/compile_results.ipynb): **master notebook for creating figures and tables**
+  - [`scripts_and_notebooks/compile_results.ipynb`](scripts_and_notebooks/all_results.ipynb): **master notebook for creating figures and tables**
   - [`scripts_and_notebooks/database_info.ipynb`](scripts_and_notebooks/database_info.ipynb): notebook for analyzing the database
   - [`scripts_and_notebooks/features.py`](scripts_and_notebooks/features.py): script for computing descriptors
   - [`scripts_and_notebooks/standardGPR.py`](scripts_and_notebooks/standardGPR.py): script for running `sklearn.GaussianProcessRegressor`
@@ -29,6 +29,10 @@ Prediction of relative free energies and macroscopic pKas for SAMPL6 and SAMPL7 
   - [`predictions/SAMPL6_stdGP/`](predictions/SAMPL6_stdGP/): free energies and macro-pKa predictions
   - [`predictions/SAMPL7_deepGP/`](predictions/SAMPL7_deepGP/): free energies and macro-pKa predictions
   - [`predictions/SAMPL7_stdGP/`](predictions/SAMPL7_stdGP/): free energies and macro-pKa predictions
+  - [`predictions/RandomForestSAMPL6/`](predictions/RandomForestSAMPL6/): free energies and macro-pKa predictions
+  - [`predictions/RandomForestSAMPL6_without_filter/`](predictions/RandomForestSAMPL6_without_filter/): free energies and macro-pKa predictions
+  - [`predictions/RandomForestSAMPL7/`](predictions/RandomForestSAMPL7/): free energies and macro-pKa predictions
+  - [`predictions/RandomForestSAMPL7_without_filter/`](predictions/RandomForestSAMPL7_without_filter/): free energies and macro-pKa predictions
 - [`pKaDatabase/`](pKaDatabase/): curated database from various sources.
   - [`pKaDatabase/pKaDatabase.pkl`](pKaDatabase/pKaDatabase.pkl): pickle file of database (loads with pandas) **NOTE: feature calculations already performed and stored inside `pd.read_pickle('pKaDatabase.pkl')`**
   - [`pKaDatabase/Sulfonamides.pkl`](pKaDatabase/Sulfonamides.pkl): pickle file of only sulfonamides database (loads with pandas)
